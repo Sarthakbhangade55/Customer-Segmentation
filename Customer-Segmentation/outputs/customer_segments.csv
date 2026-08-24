@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Income,Total_Purchases,Total_Spend,Avg_Order_Value,Recency,Frequency,Location,Preferred_Category,Cluster,Segment
+CUST0001,56.0,Male,98213.0,19,18459.07,971.53,59,19,Delhi,Beauty,0,Occasional Customers
+CUST0002,46.0,Female,137407.0,9,17475.39,1941.71,146,9,Maharashtra,Home,0,Occasional Customers
+CUST0003,42.0,Male,38268.0,28,83407.52,2978.84,132,28,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0004,60.0,Female,97866.0,20,25634.0,1281.7,17,20,Maharashtra,Fashion,0,Occasional Customers
+CUST0005,25.0,Female,106269.0,45,81304.2,1806.76,14,45,Gujarat,Electronics,1,High-Value Customers
+CUST0006,38.0,Female,80545.0,7,9545.83,1363.69,13,7,Delhi,Fashion,0,Occasional Customers
+CUST0007,56.0,Male,123483.0,14,36013.04,2572.36,135,14,Maharashtra,Electronics,0,Occasional Customers
+CUST0008,36.0,Male,112822.0,9,24536.34,2726.26,128,9,Karnataka,Groceries,0,Occasional Customers
+CUST0009,40.0,Male,92146.0,19,50475.4,2656.6,44,19,Maharashtra,Groceries,0,Occasional Customers
+CUST0010,28.0,Female,91966.0,47,137627.28,2928.24,119,47,Delhi,Groceries,1,High-Value Customers
+CUST0011,28.0,Female,59922.0,14,3878.7,277.05,143,14,Tamil Nadu,Sports,0,Occasional Customers
+CUST0012,41.0,Female,99364.0,38,96956.62,2551.49,19,38,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0013,53.0,Male,62913.0,36,82978.56,2304.96,63,36,Delhi,Sports,1,High-Value Customers
+CUST0014,42.0,Female,117033.0,40,33613.6,840.34,163,40,Gujarat,Fashion,1,High-Value Customers
+CUST0015,41.0,Female,124792.0,17,48920.9,2877.7,81,17,Gujarat,Electronics,0,Occasional Customers
+CUST0016,20.0,Male,139425.0,30,18447.0,614.9,163,30,Tamil Nadu,Sports,0,Occasional Customers
+CUST0017,39.0,Male,75677.0,9,18924.66,2102.74,147,9,Tamil Nadu,Sports,0,Occasional Customers
+CUST0018,19.0,Female,122154.0,33,27379.77,829.69,148,33,Delhi,Sports,1,High-Value Customers
+CUST0019,41.0,Female,69841.0,25,35196.75,1407.87,100,25,Gujarat,Beauty,0,Occasional Customers
+CUST0020,61.0,Female,66332.0,14,30991.1,2213.65,163,14,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0021,47.0,Male,112062.0,11,19550.41,1777.31,160,11,Gujarat,Groceries,0,Occasional Customers
+CUST0022,55.0,Female,139863.0,35,48895.35,1397.01,122,35,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0023,19.0,Male,115694.0,41,45663.75,1113.75,176,41,Maharashtra,Beauty,1,High-Value Customers
+CUST0024,38.0,Male,45032.0,14,35714.7,2551.05,44,14,Karnataka,Fashion,0,Occasional Customers
+CUST0025,50.0,Male,57846.0,30,18080.4,602.68,104,30,Rajasthan,Electronics,0,Occasional Customers
+CUST0026,29.0,Female,79474.0,41,57575.89,1404.29,152,41,Maharashtra,Sports,1,High-Value Customers
+CUST0027,39.0,Female,64936.0,4,10922.08,2730.52,61,4,Rajasthan,Groceries,0,Occasional Customers
+CUST0028,61.0,Female,49794.0,4,10273.52,2568.38,125,4,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0029,42.0,Male,81588.0,28,37033.92,1322.64,145,28,Karnataka,Fashion,0,Occasional Customers
+CUST0030,44.0,Female,90984.0,8,18693.6,2336.7,71,8,Karnataka,Electronics,0,Occasional Customers
+CUST0031,59.0,Male,70331.0,2,5009.7,2504.85,107,2,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0032,42.0,Female,114397.0,41,110244.08,2688.88,50,41,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0033,33.0,Male,48141.0,46,79332.52,1724.62,65,46,Gujarat,Electronics,1,High-Value Customers
+CUST0034,32.0,Male,29074.0,22,16994.78,772.49,99,22,Tamil Nadu,Home,0,Occasional Customers
+CUST0035,64.0,Male,26406.0,41,37509.67,914.87,32,41,Delhi,Groceries,1,High-Value Customers
+CUST0036,61.0,Male,117359.0,16,16447.2,1027.95,164,16,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0037,20.0,Female,143279.0,29,54016.85,1862.65,141,29,Delhi,Sports,1,High-Value Customers
+CUST0038,54.0,Male,43291.0,49,14301.63,291.87,58,49,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0039,24.0,Male,61568.0,48,95084.16,1980.92,128,48,Gujarat,Sports,1,High-Value Customers
+CUST0040,38.0,Female,117539.0,30,36605.7,1220.19,142,30,Delhi,Beauty,1,High-Value Customers
+CUST0041,26.0,Male,66851.0,12,12320.16,1026.68,165,12,Maharashtra,Groceries,0,Occasional Customers
+CUST0042,56.0,Female,119942.0,35,93190.65,2662.59,112,35,Delhi,Sports,1,High-Value Customers
+CUST0043,35.0,Female,74823.0,11,16368.11,1488.01,68,11,Gujarat,Electronics,0,Occasional Customers
+CUST0044,21.0,Female,43312.0,46,21442.9,466.15,40,46,Rajasthan,Sports,1,High-Value Customers
+CUST0045,42.0,Male,63108.0,50,125744.5,2514.89,144,50,Delhi,Fashion,1,High-Value Customers
+CUST0046,31.0,Female,86918.0,21,7001.4,333.4,132,21,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0047,26.0,Female,54171.0,21,46932.9,2234.9,173,21,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0048,43.0,Male,61779.0,5,11834.7,2366.94,90,5,Rajasthan,Beauty,0,Occasional Customers
+CUST0049,19.0,Male,88828.0,48,56989.92,1187.29,28,48,Gujarat,Electronics,1,High-Value Customers
+CUST0050,37.0,Female,127315.0,20,50188.2,2509.41,96,20,Karnataka,Beauty,0,Occasional Customers
+CUST0051,45.0,Female,118723.0,37,60822.45,1643.85,31,37,Tamil Nadu,Home,1,High-Value Customers
+CUST0052,64.0,Female,32411.0,3,4491.66,1497.22,3,3,Maharashtra,Beauty,0,Occasional Customers
+CUST0053,24.0,Female,122821.0,44,14393.72,327.13,136,44,Gujarat,Beauty,1,High-Value Customers
+CUST0054,61.0,Female,137990.0,33,33398.64,1012.08,24,33,Delhi,Fashion,1,High-Value Customers
+CUST0055,25.0,Male,77009.0,9,25261.47,2806.83,15,9,Delhi,Sports,0,Occasional Customers
+CUST0056,64.0,Male,35422.0,9,11673.99,1297.11,171,9,Maharashtra,Home,0,Occasional Customers
+CUST0057,52.0,Male,62468.0,4,6923.04,1730.76,159,4,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0058,31.0,Female,52371.0,35,59138.1,1689.66,45,35,Gujarat,Beauty,1,High-Value Customers
+CUST0059,34.0,Male,77022.0,17,31504.57,1853.21,8,17,Maharashtra,Home,0,Occasional Customers
+CUST0060,53.0,Female,91229.0,34,12638.82,371.73,71,34,Tamil Nadu,Home,0,Occasional Customers
+CUST0061,57.0,Female,119071.0,24,29138.16,1214.09,108,24,Gujarat,Electronics,0,Occasional Customers
+CUST0062,21.0,Female,71196.0,32,71192.32,2224.76,115,32,Delhi,Fashion,1,High-Value Customers
+CUST0063,19.0,Male,100354.0,1,761.57,761.57,103,1,Gujarat,Home,0,Occasional Customers
+CUST0064,23.0,Female,116774.0,8,6160.16,770.02,125,8,Rajasthan,Home,0,Occasional Customers
+CUST0065,59.0,Male,116410.0,45,10271.25,228.25,57,45,Karnataka,Groceries,1,High-Value Customers
+CUST0066,21.0,Female,46715.0,23,32773.85,1424.95,30,23,Gujarat,Sports,0,Occasional Customers
+CUST0067,46.0,Male,47605.0,47,125568.02,2671.66,146,47,Karnataka,Home,1,High-Value Customers
+CUST0068,35.0,Male,119853.0,40,13812.8,345.32,114,40,Gujarat,Fashion,1,High-Value Customers
+CUST0069,43.0,Female,51174.0,12,8821.56,735.13,117,12,Karnataka,Sports,0,Occasional Customers
+CUST0070,61.0,Male,29956.0,12,12818.88,1068.24,167,12,Rajasthan,Sports,0,Occasional Customers
+CUST0071,51.0,Male,124444.0,46,103446.18,2248.83,60,46,Delhi,Beauty,1,High-Value Customers
+CUST0072,27.0,Female,96373.0,47,93707.66,1993.78,98,47,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0073,53.0,Female,89252.0,15,20469.6,1364.64,171,15,Karnataka,Beauty,0,Occasional Customers
+CUST0074,31.0,Female,81949.0,41,95340.99,2325.39,126,41,Rajasthan,Beauty,1,High-Value Customers
+CUST0075,48.0,Female,82646.0,19,36232.43,1906.97,173,19,Karnataka,Groceries,0,Occasional Customers
+CUST0076,32.0,Female,90017.0,26,70431.66,2708.91,151,26,Delhi,Home,1,High-Value Customers
+CUST0077,42.0,Male,83037.0,29,72223.63,2490.47,94,29,Karnataka,Beauty,1,High-Value Customers
+CUST0078,31.0,Male,109818.0,22,19973.36,907.88,134,22,Rajasthan,Electronics,0,Occasional Customers
+CUST0079,40.0,Male,26548.0,40,38401.2,960.03,122,40,Rajasthan,Beauty,1,High-Value Customers
+CUST0080,57.0,Female,136981.0,21,11571.0,551.0,108,21,Maharashtra,Home,0,Occasional Customers
+CUST0081,38.0,Female,123141.0,38,43453.0,1143.5,4,38,Delhi,Beauty,1,High-Value Customers
+CUST0082,33.0,Male,93294.0,20,59974.4,2998.72,93,20,Maharashtra,Groceries,0,Occasional Customers
+CUST0083,62.0,Male,129204.0,29,38746.9,1336.1,151,29,Delhi,Fashion,1,High-Value Customers
+CUST0084,35.0,Female,43177.0,4,3269.48,817.37,6,4,Karnataka,Fashion,0,Occasional Customers
+CUST0085,64.0,Male,44022.0,7,16344.65,2334.95,32,7,Rajasthan,Home,0,Occasional Customers
+CUST0086,41.0,Female,126297.0,28,48129.76,1718.92,106,28,Maharashtra,Fashion,1,High-Value Customers
+CUST0087,43.0,Male,140695.0,28,17328.64,618.88,146,28,Karnataka,Fashion,0,Occasional Customers
+CUST0088,42.0,Female,25542.0,4,5063.72,1265.93,15,4,Rajasthan,Electronics,0,Occasional Customers
+CUST0089,62.0,Male,111012.0,22,29931.44,1360.52,168,22,Delhi,Home,0,Occasional Customers
+CUST0090,58.0,Female,116320.0,12,27728.64,2310.72,122,12,Rajasthan,Home,0,Occasional Customers
+CUST0091,46.0,Female,80428.0,45,11604.6,257.88,96,45,Karnataka,Fashion,1,High-Value Customers
+CUST0092,32.0,Female,42740.0,3,2859.78,953.26,6,3,Maharashtra,Fashion,0,Occasional Customers
+CUST0093,62.0,Female,79353.0,22,36283.94,1649.27,112,22,Maharashtra,Fashion,0,Occasional Customers
+CUST0094,18.0,Female,110353.0,44,41921.88,952.77,120,44,Rajasthan,Sports,1,High-Value Customers
+CUST0095,42.0,Female,133132.0,2,3919.24,1959.62,123,2,Karnataka,Groceries,0,Occasional Customers
+CUST0096,24.0,Male,76532.0,24,37181.52,1549.23,67,24,Gujarat,Beauty,0,Occasional Customers
+CUST0097,26.0,Female,36052.0,34,41234.86,1212.79,106,34,Delhi,Groceries,1,High-Value Customers
+CUST0098,41.0,Female,120689.0,27,77160.06,2857.78,139,27,Delhi,Home,1,High-Value Customers
+CUST0099,18.0,Male,67076.0,41,80772.05,1970.05,43,41,Karnataka,Electronics,1,High-Value Customers
+CUST0100,61.0,Female,73420.0,1,563.84,563.84,145,1,Gujarat,Beauty,0,Occasional Customers
+CUST0101,25.0,Female,20671.0,8,14146.08,1768.26,96,8,Maharashtra,Electronics,0,Occasional Customers
+CUST0102,41.0,Female,20163.0,23,54879.15,2386.05,132,23,Tamil Nadu,Sports,0,Occasional Customers
+CUST0103,28.0,Male,61424.0,38,82983.26,2183.77,81,38,Tamil Nadu,Home,1,High-Value Customers
+CUST0104,34.0,Male,129538.0,6,4091.1,681.85,41,6,Karnataka,Sports,0,Occasional Customers
+CUST0105,25.0,Female,73744.0,22,64301.16,2922.78,133,22,Gujarat,Home,1,High-Value Customers
+CUST0106,52.0,Female,90331.0,25,36417.0,1456.68,160,25,Gujarat,Electronics,0,Occasional Customers
+CUST0107,52.0,Male,30634.0,18,11614.86,645.27,35,18,Delhi,Electronics,0,Occasional Customers
+CUST0108,50.0,Female,24798.0,17,11977.35,704.55,22,17,Maharashtra,Electronics,0,Occasional Customers
+CUST0109,22.0,Female,42420.0,12,5700.72,475.06,150,12,Rajasthan,Home,0,Occasional Customers
+CUST0110,59.0,Male,137043.0,6,14699.1,2449.85,112,6,Gujarat,Fashion,0,Occasional Customers
+CUST0111,56.0,Female,140575.0,26,14083.94,541.69,11,26,Rajasthan,Electronics,0,Occasional Customers
+CUST0112,58.0,Male,147158.0,27,14859.45,550.35,3,27,Tamil Nadu,Sports,0,Occasional Customers
+CUST0113,45.0,Male,49300.0,8,20650.56,2581.32,137,8,Rajasthan,Beauty,0,Occasional Customers
+CUST0114,24.0,Male,109881.0,19,22132.91,1164.89,60,19,Maharashtra,Home,0,Occasional Customers
+CUST0115,26.0,Female,30749.0,42,12028.8,286.4,76,42,Maharashtra,Sports,1,High-Value Customers
+CUST0116,25.0,Male,124131.0,1,345.31,345.31,87,1,Rajasthan,Groceries,0,Occasional Customers
+CUST0117,29.0,Male,45121.0,29,17344.32,598.08,14,29,Karnataka,Groceries,0,Occasional Customers
+CUST0118,51.0,Male,148563.0,45,35887.5,797.5,18,45,Gujarat,Beauty,1,High-Value Customers
+CUST0119,50.0,Female,57487.0,49,101058.09,2062.41,113,49,Karnataka,Fashion,1,High-Value Customers
+CUST0120,40.0,Female,113947.0,35,22417.85,640.51,73,35,Rajasthan,Electronics,1,High-Value Customers
+CUST0121,41.0,Male,53361.0,40,21314.0,532.85,23,40,Gujarat,Home,1,High-Value Customers
+CUST0122,54.0,Male,41223.0,14,32776.94,2341.21,83,14,Delhi,Sports,0,Occasional Customers
+CUST0123,52.0,Female,92930.0,35,72763.25,2078.95,125,35,Karnataka,Electronics,1,High-Value Customers
+CUST0124,61.0,Male,80574.0,48,68107.68,1418.91,175,48,Karnataka,Sports,1,High-Value Customers
+CUST0125,57.0,Male,48380.0,45,78213.15,1738.07,69,45,Rajasthan,Home,1,High-Value Customers
+CUST0126,39.0,Male,46035.0,20,21471.2,1073.56,47,20,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0127,44.0,Male,50620.0,49,75999.0,1551.0,116,49,Rajasthan,Electronics,1,High-Value Customers
+CUST0128,52.0,Male,39877.0,13,21042.84,1618.68,30,13,Karnataka,Beauty,0,Occasional Customers
+CUST0129,18.0,Male,145481.0,38,48801.88,1284.26,25,38,Gujarat,Fashion,1,High-Value Customers
+CUST0130,52.0,Male,75316.0,49,134181.6,2738.4,156,49,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0131,54.0,Female,84041.0,46,11268.62,244.97,112,46,Rajasthan,Fashion,1,High-Value Customers
+CUST0132,64.0,Male,128940.0,49,117113.92,2390.08,25,49,Rajasthan,Sports,1,High-Value Customers
+CUST0133,31.0,Female,137360.0,8,4386.16,548.27,74,8,Karnataka,Electronics,0,Occasional Customers
+CUST0134,20.0,Female,73352.0,43,104624.59,2433.13,58,43,Karnataka,Electronics,1,High-Value Customers
+CUST0135,18.0,Male,50911.0,20,38491.0,1924.55,94,20,Delhi,Fashion,0,Occasional Customers
+CUST0136,22.0,Female,52784.0,33,84518.94,2561.18,119,33,Rajasthan,Groceries,1,High-Value Customers
+CUST0137,43.0,Male,23191.0,26,12299.04,473.04,127,26,Karnataka,Home,0,Occasional Customers
+CUST0138,31.0,Female,53160.0,39,68840.85,1765.15,169,39,Maharashtra,Beauty,1,High-Value Customers
+CUST0139,56.0,Male,110536.0,21,33664.05,1603.05,25,21,Tamil Nadu,Sports,0,Occasional Customers
+CUST0140,44.0,Male,124576.0,49,106689.66,2177.34,78,49,Maharashtra,Beauty,1,High-Value Customers
+CUST0141,26.0,Male,84641.0,42,71232.42,1696.01,99,42,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0142,32.0,Female,69723.0,43,73704.58,1714.06,116,43,Rajasthan,Sports,1,High-Value Customers
+CUST0143,32.0,Male,23631.0,41,57517.67,1402.87,48,41,Delhi,Sports,1,High-Value Customers
+CUST0144,43.0,Female,26172.0,9,9582.66,1064.74,10,9,Karnataka,Electronics,0,Occasional Customers
+CUST0145,59.0,Male,62080.0,24,37208.16,1550.34,99,24,Karnataka,Beauty,0,Occasional Customers
+CUST0146,30.0,Female,109097.0,37,19675.86,531.78,11,37,Karnataka,Home,1,High-Value Customers
+CUST0147,49.0,Male,110353.0,49,141719.76,2892.24,85,49,Rajasthan,Home,1,High-Value Customers
+CUST0148,56.0,Female,40281.0,41,90214.35,2200.35,149,41,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0149,49.0,Male,48671.0,17,48737.47,2866.91,173,17,Karnataka,Sports,0,Occasional Customers
+CUST0150,21.0,Male,142811.0,24,20036.16,834.84,135,24,Maharashtra,Electronics,0,Occasional Customers
+CUST0151,47.0,Male,71431.0,21,55905.15,2662.15,126,21,Karnataka,Home,0,Occasional Customers
+CUST0152,54.0,Male,110900.0,39,96119.79,2464.61,64,39,Rajasthan,Groceries,1,High-Value Customers
+CUST0153,40.0,Female,142139.0,41,85937.23,2096.03,2,41,Delhi,Electronics,1,High-Value Customers
+CUST0154,56.0,Male,127210.0,39,76053.12,1950.08,76,39,Maharashtra,Electronics,1,High-Value Customers
+CUST0155,62.0,Female,147734.0,13,14122.42,1086.34,121,13,Karnataka,Home,0,Occasional Customers
+CUST0156,32.0,Male,112961.0,11,27345.45,2485.95,42,11,Karnataka,Groceries,0,Occasional Customers
+CUST0157,60.0,Female,135463.0,46,73795.04,1604.24,54,46,Gujarat,Fashion,1,High-Value Customers
+CUST0158,46.0,Male,48602.0,19,7571.5,398.5,75,19,Tamil Nadu,Home,0,Occasional Customers
+CUST0159,53.0,Male,108789.0,11,11836.22,1076.02,16,11,Maharashtra,Groceries,0,Occasional Customers
+CUST0160,30.0,Female,71399.0,13,36644.79,2818.83,18,13,Gujarat,Electronics,0,Occasional Customers
+CUST0161,49.0,Male,43472.0,46,118767.4,2581.9,90,46,Delhi,Groceries,1,High-Value Customers
+CUST0162,24.0,Male,69230.0,45,132720.3,2949.34,144,45,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0163,39.0,Female,93616.0,1,1958.38,1958.38,6,1,Maharashtra,Home,0,Occasional Customers
+CUST0164,45.0,Female,27099.0,40,35721.2,893.03,108,40,Karnataka,Sports,1,High-Value Customers
+CUST0165,19.0,Male,138614.0,44,28858.72,655.88,175,44,Maharashtra,Home,1,High-Value Customers
+CUST0166,59.0,Male,45431.0,19,13743.84,723.36,48,19,Karnataka,Beauty,0,Occasional Customers
+CUST0167,62.0,Female,76492.0,12,3065.16,255.43,42,12,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0168,23.0,Male,116722.0,8,10351.28,1293.91,76,8,Karnataka,Beauty,0,Occasional Customers
+CUST0169,45.0,Male,67684.0,8,5888.0,736.0,77,8,Delhi,Home,0,Occasional Customers
+CUST0170,45.0,Male,50111.0,45,60868.8,1352.64,132,45,Rajasthan,Fashion,1,High-Value Customers
+CUST0171,61.0,Female,125387.0,12,33815.76,2817.98,130,12,Karnataka,Home,0,Occasional Customers
+CUST0172,61.0,Female,83936.0,48,67464.48,1405.51,59,48,Delhi,Sports,1,High-Value Customers
+CUST0173,37.0,Male,42614.0,33,87725.88,2658.36,155,33,Rajasthan,Groceries,1,High-Value Customers
+CUST0174,47.0,Male,112260.0,45,85293.45,1895.41,27,45,Tamil Nadu,Home,1,High-Value Customers
+CUST0175,28.0,Male,61991.0,26,23191.22,891.97,79,26,Tamil Nadu,Home,0,Occasional Customers
+CUST0176,45.0,Female,90476.0,39,46659.21,1196.39,72,39,Maharashtra,Electronics,1,High-Value Customers
+CUST0177,42.0,Male,137959.0,28,12179.16,434.97,7,28,Delhi,Electronics,0,Occasional Customers
+CUST0178,56.0,Male,80920.0,5,5668.5,1133.7,111,5,Delhi,Electronics,0,Occasional Customers
+CUST0179,50.0,Female,80574.0,8,16776.88,2097.11,119,8,Gujarat,Home,0,Occasional Customers
+CUST0180,18.0,Male,83530.0,25,10047.75,401.91,174,25,Gujarat,Fashion,0,Occasional Customers
+CUST0181,44.0,Female,56224.0,27,20928.24,775.12,63,27,Rajasthan,Groceries,0,Occasional Customers
+CUST0182,30.0,Male,27788.0,46,58329.38,1268.03,124,46,Rajasthan,Groceries,1,High-Value Customers
+CUST0183,58.0,Male,48082.0,23,67844.02,2949.74,12,23,Gujarat,Sports,0,Occasional Customers
+CUST0184,20.0,Male,143287.0,30,71928.3,2397.61,141,30,Rajasthan,Fashion,1,High-Value Customers
+CUST0185,56.0,Female,109570.0,45,101419.2,2253.76,43,45,Karnataka,Fashion,1,High-Value Customers
+CUST0186,23.0,Female,121015.0,47,24690.51,525.33,17,47,Gujarat,Groceries,1,High-Value Customers
+CUST0187,25.0,Female,96816.0,23,54896.17,2386.79,63,23,Delhi,Beauty,0,Occasional Customers
+CUST0188,44.0,Male,103588.0,49,117538.75,2398.75,120,49,Karnataka,Electronics,1,High-Value Customers
+CUST0189,26.0,Female,36531.0,47,88505.23,1883.09,36,47,Rajasthan,Electronics,1,High-Value Customers
+CUST0190,54.0,Male,108340.0,20,59460.2,2973.01,8,20,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0191,50.0,Male,114439.0,18,19992.78,1110.71,69,18,Maharashtra,Fashion,0,Occasional Customers
+CUST0192,59.0,Female,64857.0,18,51040.08,2835.56,90,18,Gujarat,Sports,0,Occasional Customers
+CUST0193,42.0,Male,30142.0,2,5522.5,2761.25,36,2,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0194,41.0,Male,80574.0,4,928.6,232.15,28,4,Rajasthan,Groceries,0,Occasional Customers
+CUST0195,32.0,Male,68355.0,30,43809.9,1460.33,118,30,Delhi,Electronics,1,High-Value Customers
+CUST0196,49.0,Male,29866.0,33,96884.37,2935.89,93,33,Maharashtra,Home,1,High-Value Customers
+CUST0197,49.0,Male,90067.0,36,17594.64,488.74,175,36,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0198,41.0,Female,130990.0,18,31208.4,1733.8,76,18,Maharashtra,Home,0,Occasional Customers
+CUST0199,58.0,Male,123634.0,37,108819.96,2941.08,101,37,Gujarat,Sports,1,High-Value Customers
+CUST0200,29.0,Female,123814.0,19,33352.41,1755.39,158,19,Rajasthan,Groceries,0,Occasional Customers
+CUST0201,56.0,Female,145426.0,47,34379.56,731.48,151,47,Delhi,Electronics,1,High-Value Customers
+CUST0202,19.0,Male,84027.0,28,51243.08,1830.11,144,28,Rajasthan,Beauty,1,High-Value Customers
+CUST0203,20.0,Male,77906.0,40,30897.2,772.43,14,40,Maharashtra,Home,1,High-Value Customers
+CUST0204,54.0,Male,48138.0,20,33103.4,1655.17,71,20,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0205,34.0,Female,112601.0,49,19958.68,407.32,180,49,Gujarat,Sports,1,High-Value Customers
+CUST0206,19.0,Male,49956.0,33,62546.55,1895.35,124,33,Gujarat,Electronics,1,High-Value Customers
+CUST0207,19.0,Female,127268.0,12,19764.12,1647.01,125,12,Rajasthan,Home,0,Occasional Customers
+CUST0208,45.0,Male,124797.0,15,34086.75,2272.45,37,15,Tamil Nadu,Sports,0,Occasional Customers
+CUST0209,40.0,Female,144917.0,41,80604.36,1965.96,29,41,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0210,54.0,Male,146303.0,39,67817.1,1738.9,143,39,Maharashtra,Beauty,1,High-Value Customers
+CUST0211,49.0,Male,96295.0,2,4262.76,2131.38,175,2,Rajasthan,Home,0,Occasional Customers
+CUST0212,50.0,Female,25439.0,29,17488.16,603.04,174,29,Rajasthan,Electronics,0,Occasional Customers
+CUST0213,18.0,Female,67241.0,41,76547.41,1867.01,180,41,Karnataka,Beauty,1,High-Value Customers
+CUST0214,36.0,Male,62533.0,10,6819.1,681.91,19,10,Rajasthan,Groceries,0,Occasional Customers
+CUST0215,19.0,Female,48270.0,2,5582.92,2791.46,106,2,Gujarat,Sports,0,Occasional Customers
+CUST0216,61.0,Male,98815.0,11,4304.74,391.34,21,11,Maharashtra,Home,0,Occasional Customers
+CUST0217,43.0,Female,59279.0,13,18265.65,1405.05,64,13,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0218,49.0,Female,129787.0,10,21482.3,2148.23,165,10,Rajasthan,Fashion,0,Occasional Customers
+CUST0219,23.0,Male,43888.0,14,20754.44,1482.46,27,14,Maharashtra,Electronics,0,Occasional Customers
+CUST0220,49.0,Male,37630.0,18,8241.66,457.87,55,18,Rajasthan,Groceries,0,Occasional Customers
+CUST0221,21.0,Male,81063.0,9,15745.14,1749.46,29,9,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0222,28.0,Female,138527.0,39,77866.23,1996.57,148,39,Delhi,Fashion,1,High-Value Customers
+CUST0223,34.0,Female,143239.0,28,60777.36,2170.62,25,28,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0224,55.0,Male,147896.0,3,3735.39,1245.13,70,3,Tamil Nadu,Sports,0,Occasional Customers
+CUST0225,41.0,Male,55144.0,20,35565.0,1778.25,63,20,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0226,22.0,Female,72161.0,6,8771.52,1461.92,164,6,Rajasthan,Groceries,0,Occasional Customers
+CUST0227,51.0,Female,116718.0,27,56207.52,2081.76,130,27,Karnataka,Electronics,1,High-Value Customers
+CUST0228,23.0,Female,145873.0,2,3667.92,1833.96,150,2,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0229,39.0,Male,111074.0,29,48491.48,1672.12,16,29,Gujarat,Beauty,1,High-Value Customers
+CUST0230,28.0,Male,97360.0,38,34149.46,898.67,146,38,Gujarat,Electronics,1,High-Value Customers
+CUST0231,33.0,Male,70979.0,3,616.95,205.65,100,3,Maharashtra,Beauty,0,Occasional Customers
+CUST0232,50.0,Female,117661.0,16,10998.88,687.43,30,16,Karnataka,Beauty,0,Occasional Customers
+CUST0233,26.0,Male,26979.0,30,15833.4,527.78,45,30,Maharashtra,Home,0,Occasional Customers
+CUST0234,23.0,Female,46189.0,40,58297.6,1457.44,19,40,Gujarat,Groceries,1,High-Value Customers
+CUST0235,33.0,Male,62600.0,2,3828.64,1914.32,34,2,Gujarat,Sports,0,Occasional Customers
+CUST0236,46.0,Female,79560.0,17,13542.88,796.64,141,17,Delhi,Groceries,0,Occasional Customers
+CUST0237,20.0,Female,98040.0,41,116003.76,2829.36,171,41,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0238,37.0,Female,143257.0,12,2624.52,218.71,62,12,Gujarat,Home,0,Occasional Customers
+CUST0239,53.0,Male,81558.0,35,82685.4,2362.44,118,35,Rajasthan,Beauty,1,High-Value Customers
+CUST0240,36.0,Male,106205.0,43,83874.51,1950.57,100,43,Rajasthan,Beauty,1,High-Value Customers
+CUST0241,43.0,Male,26910.0,1,1245.95,1245.95,22,1,Maharashtra,Electronics,0,Occasional Customers
+CUST0242,20.0,Female,77713.0,45,15361.65,341.37,180,45,Maharashtra,Home,1,High-Value Customers
+CUST0243,36.0,Female,66857.0,15,29354.4,1956.96,180,15,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0244,37.0,Female,54964.0,26,33272.72,1279.72,111,26,Tamil Nadu,Home,0,Occasional Customers
+CUST0245,49.0,Female,105667.0,37,104397.35,2821.55,164,37,Delhi,Electronics,1,High-Value Customers
+CUST0246,24.0,Female,45227.0,21,36068.97,1717.57,73,21,Karnataka,Fashion,0,Occasional Customers
+CUST0247,58.0,Male,25978.0,49,138719.98,2831.02,147,49,Maharashtra,Groceries,1,High-Value Customers
+CUST0248,50.0,Female,107527.0,31,25337.85,817.35,38,31,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0249,57.0,Male,37153.0,25,55800.75,2232.03,70,25,Maharashtra,Sports,0,Occasional Customers
+CUST0250,56.0,Male,79765.0,23,44350.9,1928.3,116,23,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0251,35.0,Male,119084.0,24,54488.16,2270.34,79,24,Gujarat,Sports,1,High-Value Customers
+CUST0252,57.0,Male,128212.0,38,30440.66,801.07,148,38,Maharashtra,Fashion,1,High-Value Customers
+CUST0253,18.0,Male,59071.0,28,57735.44,2061.98,9,28,Gujarat,Sports,1,High-Value Customers
+CUST0254,28.0,Female,132990.0,21,33484.71,1594.51,32,21,Maharashtra,Groceries,0,Occasional Customers
+CUST0255,45.0,Male,89519.0,43,98036.13,2279.91,132,43,Karnataka,Beauty,1,High-Value Customers
+CUST0256,42.0,Female,29503.0,18,20083.14,1115.73,50,18,Delhi,Fashion,0,Occasional Customers
+CUST0257,40.0,Male,80703.0,36,96917.76,2692.16,82,36,Rajasthan,Groceries,1,High-Value Customers
+CUST0258,48.0,Male,84379.0,35,15261.4,436.04,5,35,Rajasthan,Electronics,0,Occasional Customers
+CUST0259,47.0,Male,115457.0,45,110705.85,2460.13,148,45,Rajasthan,Home,1,High-Value Customers
+CUST0260,59.0,Male,77866.0,9,23505.21,2611.69,87,9,Gujarat,Fashion,0,Occasional Customers
+CUST0261,52.0,Female,36905.0,38,94555.78,2488.31,126,38,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0262,24.0,Male,65838.0,30,49068.9,1635.63,75,30,Rajasthan,Sports,1,High-Value Customers
+CUST0263,33.0,Female,145200.0,44,62809.12,1427.48,165,44,Karnataka,Sports,1,High-Value Customers
+CUST0264,43.0,Male,78279.0,34,101644.02,2989.53,22,34,Rajasthan,Fashion,1,High-Value Customers
+CUST0265,19.0,Female,109489.0,32,26933.76,841.68,68,32,Maharashtra,Beauty,1,High-Value Customers
+CUST0266,18.0,Female,46806.0,3,5193.75,1731.25,44,3,Gujarat,Fashion,0,Occasional Customers
+CUST0267,29.0,Female,65000.0,3,6233.67,2077.89,34,3,Maharashtra,Beauty,0,Occasional Customers
+CUST0268,22.0,Male,42168.0,28,60548.04,2162.43,77,28,Maharashtra,Sports,1,High-Value Customers
+CUST0269,54.0,Male,90119.0,44,33935.88,771.27,42,44,Maharashtra,Groceries,1,High-Value Customers
+CUST0270,49.0,Male,58714.0,15,30467.7,2031.18,137,15,Delhi,Electronics,0,Occasional Customers
+CUST0271,26.0,Female,74093.0,41,102148.63,2491.43,106,41,Delhi,Groceries,1,High-Value Customers
+CUST0272,58.0,Male,75419.0,23,7821.15,340.05,95,23,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0273,52.0,Male,69145.0,40,110090.4,2752.26,135,40,Gujarat,Sports,1,High-Value Customers
+CUST0274,36.0,Female,125432.0,11,3108.71,282.61,68,11,Karnataka,Groceries,0,Occasional Customers
+CUST0275,33.0,Male,97425.0,48,57442.56,1196.72,147,48,Karnataka,Groceries,1,High-Value Customers
+CUST0276,20.0,Female,112949.0,32,7816.96,244.28,159,32,Karnataka,Fashion,0,Occasional Customers
+CUST0277,37.0,Male,97811.0,36,14976.36,416.01,128,36,Maharashtra,Home,1,High-Value Customers
+CUST0278,41.0,Male,22461.0,33,90791.91,2751.27,163,33,Delhi,Sports,1,High-Value Customers
+CUST0279,50.0,Female,34291.0,24,28646.64,1193.61,85,24,Gujarat,Beauty,0,Occasional Customers
+CUST0280,41.0,Male,66804.0,39,54185.04,1389.36,159,39,Maharashtra,Sports,1,High-Value Customers
+CUST0281,28.0,Female,96971.0,34,27300.64,802.96,83,34,Delhi,Beauty,1,High-Value Customers
+CUST0282,25.0,Male,113471.0,28,52412.36,1871.87,95,28,Delhi,Beauty,1,High-Value Customers
+CUST0283,53.0,Male,84946.0,37,69021.65,1865.45,32,37,Rajasthan,Electronics,1,High-Value Customers
+CUST0284,55.0,Female,118989.0,7,8695.12,1242.16,66,7,Rajasthan,Beauty,0,Occasional Customers
+CUST0285,57.0,Female,104080.0,4,4530.0,1132.5,116,4,Gujarat,Beauty,0,Occasional Customers
+CUST0286,37.0,Female,141719.0,37,99082.3,2677.9,138,37,Gujarat,Fashion,1,High-Value Customers
+CUST0287,52.0,Male,81332.0,1,1273.2,1273.2,130,1,Gujarat,Groceries,0,Occasional Customers
+CUST0288,42.0,Female,97794.0,1,1581.8,1581.8,60,1,Maharashtra,Sports,0,Occasional Customers
+CUST0289,52.0,Male,50841.0,47,46682.75,993.25,17,47,Tamil Nadu,Sports,1,High-Value Customers
+CUST0290,42.0,Male,144447.0,20,48059.0,2402.95,96,20,Gujarat,Beauty,0,Occasional Customers
+CUST0291,46.0,Female,140029.0,19,24944.15,1312.85,144,19,Rajasthan,Home,0,Occasional Customers
+CUST0292,35.0,Male,68758.0,29,47505.19,1638.11,16,29,Tamil Nadu,Sports,1,High-Value Customers
+CUST0293,63.0,Female,134726.0,10,9094.0,909.4,46,10,Maharashtra,Beauty,0,Occasional Customers
+CUST0294,35.0,Male,96272.0,18,53378.1,2965.45,167,18,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0295,19.0,Male,57643.0,28,28453.32,1016.19,159,28,Karnataka,Electronics,0,Occasional Customers
+CUST0296,52.0,Female,70408.0,35,82532.8,2358.08,107,35,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0297,33.0,Female,63950.0,43,60070.57,1396.99,88,43,Gujarat,Beauty,1,High-Value Customers
+CUST0298,58.0,Female,76849.0,47,36538.27,777.41,129,47,Maharashtra,Fashion,1,High-Value Customers
+CUST0299,53.0,Female,120500.0,31,75615.51,2439.21,139,31,Gujarat,Home,1,High-Value Customers
+CUST0300,50.0,Female,48044.0,27,30620.7,1134.1,119,27,Rajasthan,Beauty,0,Occasional Customers
+CUST0301,21.0,Female,125469.0,11,28847.94,2622.54,85,11,Karnataka,Fashion,0,Occasional Customers
+CUST0302,50.0,Female,145588.0,49,135373.28,2762.72,4,49,Rajasthan,Fashion,1,High-Value Customers
+CUST0303,31.0,Male,35997.0,49,127767.99,2607.51,71,49,Gujarat,Sports,1,High-Value Customers
+CUST0304,38.0,Male,99751.0,38,11324.76,298.02,154,38,Gujarat,Beauty,1,High-Value Customers
+CUST0305,37.0,Male,118605.0,5,12023.25,2404.65,111,5,Gujarat,Beauty,0,Occasional Customers
+CUST0306,25.0,Female,43911.0,8,10814.0,1351.75,50,8,Delhi,Fashion,0,Occasional Customers
+CUST0307,24.0,Female,75533.0,34,89978.28,2646.42,140,34,Karnataka,Fashion,1,High-Value Customers
+CUST0308,20.0,Male,102566.0,48,95340.96,1986.27,95,48,Gujarat,Fashion,1,High-Value Customers
+CUST0309,34.0,Female,114870.0,12,30410.4,2534.2,92,12,Gujarat,Sports,0,Occasional Customers
+CUST0310,50.0,Female,34571.0,38,60739.58,1598.41,65,38,Rajasthan,Beauty,1,High-Value Customers
+CUST0311,29.0,Male,128255.0,1,1698.07,1698.07,47,1,Rajasthan,Fashion,0,Occasional Customers
+CUST0312,39.0,Female,149226.0,31,18732.99,604.29,106,31,Gujarat,Electronics,0,Occasional Customers
+CUST0313,39.0,Female,114463.0,4,9580.64,2395.16,130,4,Maharashtra,Beauty,0,Occasional Customers
+CUST0314,63.0,Male,77941.0,49,67340.21,1374.29,106,49,Delhi,Sports,1,High-Value Customers
+CUST0315,47.0,Female,78005.0,45,72009.9,1600.22,24,45,Rajasthan,Electronics,1,High-Value Customers
+CUST0316,55.0,Male,80574.0,50,119913.5,2398.27,4,50,Maharashtra,Groceries,1,High-Value Customers
+CUST0317,55.0,Female,78712.0,5,9383.85,1876.77,108,5,Delhi,Beauty,0,Occasional Customers
+CUST0318,62.0,Female,63541.0,30,22892.4,763.08,19,30,Gujarat,Groceries,0,Occasional Customers
+CUST0319,42.0,Female,43387.0,24,44463.6,1852.65,154,24,Karnataka,Fashion,0,Occasional Customers
+CUST0320,44.0,Male,113980.0,3,4024.11,1341.37,40,3,Tamil Nadu,Sports,0,Occasional Customers
+CUST0321,44.0,Female,68908.0,11,16661.37,1514.67,50,11,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0322,51.0,Female,105457.0,45,12567.15,279.27,171,45,Gujarat,Sports,1,High-Value Customers
+CUST0323,38.0,Male,33057.0,4,3152.32,788.08,75,4,Rajasthan,Home,0,Occasional Customers
+CUST0324,47.0,Female,84028.0,26,25659.66,986.91,12,26,Maharashtra,Fashion,0,Occasional Customers
+CUST0325,50.0,Male,130804.0,27,59299.83,2196.29,27,27,Karnataka,Groceries,1,High-Value Customers
+CUST0326,45.0,Female,139246.0,46,10680.28,232.18,113,46,Delhi,Sports,1,High-Value Customers
+CUST0327,64.0,Male,75731.0,43,57816.94,1344.58,49,43,Gujarat,Fashion,1,High-Value Customers
+CUST0328,50.0,Male,44858.0,27,75256.56,2787.28,144,27,Karnataka,Beauty,1,High-Value Customers
+CUST0329,22.0,Male,68689.0,42,21557.34,513.27,130,42,Karnataka,Sports,1,High-Value Customers
+CUST0330,36.0,Female,64638.0,50,82299.5,1645.99,60,50,Rajasthan,Sports,1,High-Value Customers
+CUST0331,21.0,Male,111598.0,6,14413.56,2402.26,30,6,Delhi,Fashion,0,Occasional Customers
+CUST0332,52.0,Female,122386.0,15,42586.35,2839.09,84,15,Karnataka,Home,0,Occasional Customers
+CUST0333,34.0,Male,66486.0,30,68729.1,2290.97,166,30,Rajasthan,Fashion,1,High-Value Customers
+CUST0334,61.0,Male,40567.0,42,93138.36,2217.58,28,42,Maharashtra,Groceries,1,High-Value Customers
+CUST0335,45.0,Female,49739.0,37,93024.29,2514.17,25,37,Rajasthan,Groceries,1,High-Value Customers
+CUST0336,47.0,Female,77804.0,37,53626.32,1449.36,96,37,Maharashtra,Sports,1,High-Value Customers
+CUST0337,46.0,Male,128821.0,42,103167.12,2456.36,125,42,Maharashtra,Sports,1,High-Value Customers
+CUST0338,63.0,Female,23754.0,37,8225.1,222.3,10,37,Karnataka,Fashion,0,Occasional Customers
+CUST0339,23.0,Female,47044.0,35,97606.95,2788.77,42,35,Rajasthan,Groceries,1,High-Value Customers
+CUST0340,52.0,Female,87260.0,23,33148.98,1441.26,40,23,Maharashtra,Groceries,0,Occasional Customers
+CUST0341,58.0,Male,86912.0,6,10496.76,1749.46,77,6,Delhi,Home,0,Occasional Customers
+CUST0342,54.0,Male,145623.0,4,3654.68,913.67,105,4,Karnataka,Beauty,0,Occasional Customers
+CUST0343,41.0,Female,28706.0,18,41023.62,2279.09,118,18,Rajasthan,Home,0,Occasional Customers
+CUST0344,46.0,Male,28894.0,9,3731.22,414.58,42,9,Rajasthan,Electronics,0,Occasional Customers
+CUST0345,63.0,Female,80574.0,49,129525.62,2643.38,47,49,Tamil Nadu,Home,1,High-Value Customers
+CUST0346,48.0,Female,103986.0,29,73043.17,2518.73,165,29,Rajasthan,Fashion,1,High-Value Customers
+CUST0347,52.0,Female,101942.0,13,10464.61,804.97,22,13,Karnataka,Beauty,0,Occasional Customers
+CUST0348,50.0,Female,71612.0,47,115907.17,2466.11,107,47,Delhi,Fashion,1,High-Value Customers
+CUST0349,38.0,Female,49725.0,17,40830.6,2401.8,27,17,Rajasthan,Electronics,0,Occasional Customers
+CUST0350,49.0,Male,25926.0,45,88659.45,1970.21,41,45,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0351,40.0,Female,124555.0,32,39867.52,1245.86,80,32,Karnataka,Sports,1,High-Value Customers
+CUST0352,50.0,Male,29496.0,48,46089.6,960.2,162,48,Maharashtra,Groceries,1,High-Value Customers
+CUST0353,20.0,Male,76447.0,22,18677.78,848.99,160,22,Gujarat,Home,0,Occasional Customers
+CUST0354,35.0,Female,121604.0,4,4368.44,1092.11,89,4,Gujarat,Fashion,0,Occasional Customers
+CUST0355,42.0,Female,49806.0,5,13649.8,2729.96,66,5,Maharashtra,Electronics,0,Occasional Customers
+CUST0356,59.0,Female,108199.0,37,15443.43,417.39,12,37,Rajasthan,Groceries,1,High-Value Customers
+CUST0357,48.0,Female,61321.0,41,103354.44,2520.84,168,41,Gujarat,Home,1,High-Value Customers
+CUST0358,20.0,Male,142041.0,49,57667.61,1176.89,73,49,Gujarat,Groceries,1,High-Value Customers
+CUST0359,57.0,Male,122031.0,13,21586.24,1660.48,76,13,Maharashtra,Home,0,Occasional Customers
+CUST0360,63.0,Female,85095.0,34,82435.04,2424.56,90,34,Rajasthan,Sports,1,High-Value Customers
+CUST0361,41.0,Male,42656.0,45,120431.25,2676.25,10,45,Rajasthan,Beauty,1,High-Value Customers
+CUST0362,49.0,Male,75147.0,22,25638.58,1165.39,96,22,Maharashtra,Groceries,0,Occasional Customers
+CUST0363,64.0,Male,111396.0,23,34342.68,1493.16,176,23,Rajasthan,Groceries,0,Occasional Customers
+CUST0364,39.0,Male,69666.0,3,4081.92,1360.64,20,3,Rajasthan,Groceries,0,Occasional Customers
+CUST0365,40.0,Male,102368.0,42,9958.2,237.1,39,42,Karnataka,Beauty,1,High-Value Customers
+CUST0366,19.0,Male,58787.0,34,34973.76,1028.64,60,34,Karnataka,Electronics,1,High-Value Customers
+CUST0367,44.0,Male,133767.0,32,47543.36,1485.73,66,32,Maharashtra,Home,1,High-Value Customers
+CUST0368,59.0,Male,82946.0,45,60797.7,1351.06,65,45,Delhi,Sports,1,High-Value Customers
+CUST0369,19.0,Female,41727.0,49,108848.6,2221.4,179,49,Gujarat,Groceries,1,High-Value Customers
+CUST0370,43.0,Male,128351.0,21,26826.45,1277.45,124,21,Karnataka,Beauty,0,Occasional Customers
+CUST0371,34.0,Male,115081.0,46,72231.5,1570.25,164,46,Gujarat,Electronics,1,High-Value Customers
+CUST0372,57.0,Female,142721.0,44,61727.6,1402.9,152,44,Tamil Nadu,Home,1,High-Value Customers
+CUST0373,50.0,Male,130058.0,21,47748.75,2273.75,155,21,Maharashtra,Beauty,0,Occasional Customers
+CUST0374,26.0,Female,88056.0,44,115118.08,2616.32,130,44,Delhi,Sports,1,High-Value Customers
+CUST0375,60.0,Female,23081.0,11,18582.19,1689.29,159,11,Tamil Nadu,Sports,0,Occasional Customers
+CUST0376,56.0,Male,54196.0,39,94005.99,2410.41,57,39,Tamil Nadu,Home,1,High-Value Customers
+CUST0377,46.0,Male,56735.0,4,4124.0,1031.0,78,4,Rajasthan,Groceries,0,Occasional Customers
+CUST0378,59.0,Female,124749.0,1,1715.83,1715.83,29,1,Tamil Nadu,Sports,0,Occasional Customers
+CUST0379,43.0,Female,100102.0,28,32665.92,1166.64,15,28,Maharashtra,Electronics,0,Occasional Customers
+CUST0380,52.0,Male,99578.0,24,32634.24,1359.76,12,24,Karnataka,Beauty,0,Occasional Customers
+CUST0381,42.0,Female,45498.0,35,78776.6,2250.76,101,35,Maharashtra,Electronics,1,High-Value Customers
+CUST0382,41.0,Male,96865.0,13,34692.45,2668.65,156,13,Karnataka,Groceries,0,Occasional Customers
+CUST0383,30.0,Female,51656.0,47,25388.93,540.19,84,47,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0384,24.0,Male,87695.0,34,67217.66,1976.99,125,34,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0385,53.0,Female,57900.0,11,20130.0,1830.0,103,11,Delhi,Fashion,0,Occasional Customers
+CUST0386,62.0,Female,148392.0,36,19136.16,531.56,24,36,Karnataka,Electronics,1,High-Value Customers
+CUST0387,37.0,Female,137235.0,17,13486.1,793.3,149,17,Tamil Nadu,Home,0,Occasional Customers
+CUST0388,18.0,Male,104899.0,35,37478.35,1070.81,138,35,Rajasthan,Beauty,1,High-Value Customers
+CUST0389,25.0,Male,67701.0,18,12013.38,667.41,110,18,Gujarat,Fashion,0,Occasional Customers
+CUST0390,63.0,Male,128777.0,40,35297.6,882.44,78,40,Delhi,Beauty,1,High-Value Customers
+CUST0391,33.0,Male,39033.0,22,20884.16,949.28,101,22,Maharashtra,Beauty,0,Occasional Customers
+CUST0392,31.0,Male,143193.0,24,27357.36,1139.89,146,24,Delhi,Groceries,0,Occasional Customers
+CUST0393,29.0,Female,30805.0,19,43667.51,2298.29,142,19,Gujarat,Groceries,0,Occasional Customers
+CUST0394,40.0,Male,55851.0,37,66649.95,1801.35,162,37,Karnataka,Fashion,1,High-Value Customers
+CUST0395,32.0,Male,46832.0,39,115498.11,2961.49,128,39,Maharashtra,Sports,1,High-Value Customers
+CUST0396,45.0,Female,83437.0,21,28586.46,1361.26,58,21,Maharashtra,Groceries,0,Occasional Customers
+CUST0397,51.0,Female,135725.0,8,18486.56,2310.82,76,8,Karnataka,Groceries,0,Occasional Customers
+CUST0398,19.0,Female,33944.0,28,73923.08,2640.11,150,28,Delhi,Groceries,1,High-Value Customers
+CUST0399,49.0,Female,39873.0,5,10505.7,2101.14,36,5,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0400,40.0,Male,60372.0,17,23004.74,1353.22,173,17,Delhi,Fashion,0,Occasional Customers
+CUST0401,39.0,Male,109464.0,37,85472.22,2310.06,164,37,Gujarat,Beauty,1,High-Value Customers
+CUST0402,42.0,Female,35379.0,36,27729.72,770.27,22,36,Rajasthan,Home,1,High-Value Customers
+CUST0403,39.0,Female,137322.0,19,21225.85,1117.15,127,19,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0404,39.0,Male,56751.0,27,46729.44,1730.72,80,27,Delhi,Home,0,Occasional Customers
+CUST0405,59.0,Female,120082.0,34,61579.1,1811.15,100,34,Rajasthan,Electronics,1,High-Value Customers
+CUST0406,23.0,Male,109822.0,11,2882.0,262.0,96,11,Rajasthan,Electronics,0,Occasional Customers
+CUST0407,32.0,Male,25110.0,45,128084.4,2846.32,161,45,Karnataka,Home,1,High-Value Customers
+CUST0408,60.0,Female,74341.0,47,101076.32,2150.56,173,47,Gujarat,Home,1,High-Value Customers
+CUST0409,54.0,Female,32087.0,12,19055.64,1587.97,164,12,Gujarat,Beauty,0,Occasional Customers
+CUST0410,50.0,Female,43762.0,21,59067.96,2812.76,148,21,Gujarat,Home,0,Occasional Customers
+CUST0411,25.0,Male,135812.0,11,15724.17,1429.47,18,11,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0412,61.0,Female,102617.0,39,114863.58,2945.22,38,39,Maharashtra,Electronics,1,High-Value Customers
+CUST0413,61.0,Male,120483.0,28,45763.2,1634.4,151,28,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0414,22.0,Male,29596.0,5,2600.0,520.0,109,5,Delhi,Sports,0,Occasional Customers
+CUST0415,56.0,Female,123555.0,17,39804.48,2341.44,123,17,Rajasthan,Home,0,Occasional Customers
+CUST0416,21.0,Female,127539.0,20,42018.2,2100.91,144,20,Rajasthan,Groceries,0,Occasional Customers
+CUST0417,23.0,Female,38313.0,41,96938.76,2364.36,149,41,Maharashtra,Groceries,1,High-Value Customers
+CUST0418,62.0,Female,133175.0,46,131745.84,2864.04,104,46,Delhi,Home,1,High-Value Customers
+CUST0419,49.0,Female,86549.0,12,28490.04,2374.17,140,12,Maharashtra,Fashion,0,Occasional Customers
+CUST0420,47.0,Female,134914.0,6,11470.44,1911.74,144,6,Rajasthan,Groceries,0,Occasional Customers
+CUST0421,64.0,Male,43705.0,17,44207.82,2600.46,81,17,Tamil Nadu,Sports,0,Occasional Customers
+CUST0422,52.0,Male,87364.0,19,39616.71,2085.09,87,19,Gujarat,Home,0,Occasional Customers
+CUST0423,57.0,Male,93445.0,26,34910.98,1342.73,142,26,Rajasthan,Fashion,0,Occasional Customers
+CUST0424,33.0,Male,123892.0,48,128627.52,2679.74,61,48,Karnataka,Fashion,1,High-Value Customers
+CUST0425,30.0,Female,98645.0,44,36138.08,821.32,46,44,Gujarat,Beauty,1,High-Value Customers
+CUST0426,59.0,Male,22023.0,44,96844.0,2201.0,32,44,Rajasthan,Fashion,1,High-Value Customers
+CUST0427,47.0,Male,139654.0,32,85388.16,2668.38,15,32,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0428,36.0,Male,79796.0,6,13486.14,2247.69,44,6,Maharashtra,Groceries,0,Occasional Customers
+CUST0429,34.0,Female,100073.0,36,77485.32,2152.37,145,36,Gujarat,Home,1,High-Value Customers
+CUST0430,36.0,Male,112197.0,38,87680.82,2307.39,169,38,Tamil Nadu,Home,1,High-Value Customers
+CUST0431,45.0,Female,84429.0,11,16523.65,1502.15,54,11,Delhi,Fashion,0,Occasional Customers
+CUST0432,43.0,Male,124195.0,33,87373.44,2647.68,44,33,Karnataka,Sports,1,High-Value Customers
+CUST0433,54.0,Male,81627.0,24,18470.88,769.62,98,24,Gujarat,Electronics,0,Occasional Customers
+CUST0434,43.0,Female,53848.0,23,12803.64,556.68,5,23,Maharashtra,Beauty,0,Occasional Customers
+CUST0435,40.0,Female,57804.0,15,14991.3,999.42,109,15,Delhi,Electronics,0,Occasional Customers
+CUST0436,26.0,Male,35379.0,27,45587.34,1688.42,27,27,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0437,29.0,Female,79664.0,11,17925.27,1629.57,116,11,Karnataka,Fashion,0,Occasional Customers
+CUST0438,18.0,Female,47766.0,50,124884.0,2497.68,87,50,Maharashtra,Electronics,1,High-Value Customers
+CUST0439,18.0,Male,129126.0,17,22657.43,1332.79,104,17,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0440,64.0,Female,88099.0,14,21786.24,1556.16,123,14,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0441,51.0,Female,56060.0,27,6410.61,237.43,79,27,Gujarat,Home,0,Occasional Customers
+CUST0442,49.0,Female,114733.0,18,24250.86,1347.27,43,18,Gujarat,Groceries,0,Occasional Customers
+CUST0443,42.0,Female,89122.0,28,56385.56,2013.77,97,28,Maharashtra,Sports,1,High-Value Customers
+CUST0444,57.0,Female,36087.0,47,11440.74,243.42,31,47,Rajasthan,Home,1,High-Value Customers
+CUST0445,62.0,Female,68868.0,47,46364.09,986.47,99,47,Rajasthan,Groceries,1,High-Value Customers
+CUST0446,18.0,Female,139119.0,4,3129.12,782.28,17,4,Tamil Nadu,Sports,0,Occasional Customers
+CUST0447,33.0,Female,43225.0,7,2222.92,317.56,83,7,Gujarat,Sports,0,Occasional Customers
+CUST0448,56.0,Female,115286.0,45,69386.85,1541.93,110,45,Karnataka,Sports,1,High-Value Customers
+CUST0449,22.0,Female,26643.0,35,24809.05,708.83,32,35,Karnataka,Fashion,1,High-Value Customers
+CUST0450,39.0,Female,113059.0,48,109470.24,2280.63,168,48,Tamil Nadu,Sports,1,High-Value Customers
+CUST0451,46.0,Male,56727.0,9,23167.8,2574.2,141,9,Gujarat,Beauty,0,Occasional Customers
+CUST0452,20.0,Female,31005.0,8,13821.12,1727.64,35,8,Maharashtra,Electronics,0,Occasional Customers
+CUST0453,29.0,Female,129079.0,45,132695.1,2948.78,133,45,Maharashtra,Beauty,1,High-Value Customers
+CUST0454,43.0,Male,85697.0,17,24842.78,1461.34,29,17,Maharashtra,Electronics,0,Occasional Customers
+CUST0455,33.0,Female,36029.0,17,27836.31,1637.43,70,17,Karnataka,Home,0,Occasional Customers
+CUST0456,54.0,Male,135281.0,49,145520.69,2969.81,153,49,Gujarat,Home,1,High-Value Customers
+CUST0457,39.0,Male,80574.0,33,27995.22,848.34,95,33,Gujarat,Electronics,1,High-Value Customers
+CUST0458,46.0,Female,83646.0,32,90852.16,2839.13,22,32,Karnataka,Beauty,1,High-Value Customers
+CUST0459,31.0,Male,80603.0,8,2559.6,319.95,173,8,Maharashtra,Electronics,0,Occasional Customers
+CUST0460,45.0,Female,48731.0,19,27547.72,1449.88,69,19,Maharashtra,Sports,0,Occasional Customers
+CUST0461,22.0,Female,129458.0,38,15048.38,396.01,89,38,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0462,64.0,Male,130384.0,3,6725.58,2241.86,72,3,Rajasthan,Home,0,Occasional Customers
+CUST0463,47.0,Male,88926.0,5,9517.75,1903.55,129,5,Delhi,Fashion,0,Occasional Customers
+CUST0464,63.0,Male,25997.0,13,28321.54,2178.58,172,13,Rajasthan,Sports,0,Occasional Customers
+CUST0465,22.0,Female,75506.0,47,58681.85,1248.55,87,47,Gujarat,Sports,1,High-Value Customers
+CUST0466,29.0,Female,98229.0,46,56789.3,1234.55,96,46,Gujarat,Home,1,High-Value Customers
+CUST0467,33.0,Female,69815.0,31,10133.59,326.89,75,31,Gujarat,Home,0,Occasional Customers
+CUST0468,43.0,Male,62092.0,16,18877.6,1179.85,167,16,Rajasthan,Sports,0,Occasional Customers
+CUST0469,43.0,Female,82539.0,50,140100.5,2802.01,54,50,Delhi,Groceries,1,High-Value Customers
+CUST0470,38.0,Female,86077.0,32,40378.56,1261.83,88,32,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0471,56.0,Female,41817.0,22,55612.26,2527.83,157,22,Rajasthan,Fashion,0,Occasional Customers
+CUST0472,53.0,Male,57861.0,29,74196.79,2558.51,54,29,Delhi,Groceries,1,High-Value Customers
+CUST0473,50.0,Female,33428.0,22,27391.76,1245.08,16,22,Maharashtra,Beauty,0,Occasional Customers
+CUST0474,47.0,Female,63934.0,43,84691.51,1969.57,99,43,Maharashtra,Fashion,1,High-Value Customers
+CUST0475,54.0,Female,135555.0,3,1401.12,467.04,20,3,Gujarat,Electronics,0,Occasional Customers
+CUST0476,40.0,Male,134367.0,10,4903.0,490.3,46,10,Karnataka,Sports,0,Occasional Customers
+CUST0477,27.0,Female,30258.0,42,14122.08,336.24,127,42,Gujarat,Sports,1,High-Value Customers
+CUST0478,22.0,Female,77775.0,21,38363.64,1826.84,58,21,Karnataka,Groceries,0,Occasional Customers
+CUST0479,53.0,Male,101580.0,16,22288.0,1393.0,111,16,Delhi,Fashion,0,Occasional Customers
+CUST0480,51.0,Female,114947.0,12,20813.88,1734.49,129,12,Maharashtra,Beauty,0,Occasional Customers
+CUST0481,48.0,Female,25469.0,2,3318.0,1659.0,81,2,Rajasthan,Fashion,0,Occasional Customers
+CUST0482,27.0,Male,48854.0,41,48403.37,1180.57,157,41,Karnataka,Sports,1,High-Value Customers
+CUST0483,36.0,Male,26256.0,24,50326.32,2096.93,84,24,Delhi,Home,0,Occasional Customers
+CUST0484,49.0,Female,144086.0,35,81333.35,2323.81,70,35,Maharashtra,Electronics,1,High-Value Customers
+CUST0485,18.0,Male,96256.0,30,7228.8,240.96,8,30,Rajasthan,Groceries,0,Occasional Customers
+CUST0486,22.0,Female,53937.0,30,23408.4,780.28,29,30,Karnataka,Home,0,Occasional Customers
+CUST0487,62.0,Male,119134.0,47,103261.82,2197.06,112,47,Gujarat,Beauty,1,High-Value Customers
+CUST0488,21.0,Female,21651.0,35,44888.9,1282.54,179,35,Gujarat,Home,1,High-Value Customers
+CUST0489,33.0,Male,70288.0,19,39044.24,2054.96,161,19,Gujarat,Home,0,Occasional Customers
+CUST0490,41.0,Female,104730.0,50,58575.0,1171.5,131,50,Delhi,Beauty,1,High-Value Customers
+CUST0491,33.0,Female,45051.0,8,10352.88,1294.11,163,8,Gujarat,Home,0,Occasional Customers
+CUST0492,19.0,Female,47386.0,26,16751.8,644.3,108,26,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0493,45.0,Female,95054.0,49,45229.45,923.05,109,49,Maharashtra,Sports,1,High-Value Customers
+CUST0494,49.0,Male,131562.0,40,75806.0,1895.15,20,40,Delhi,Fashion,1,High-Value Customers
+CUST0495,44.0,Female,36184.0,7,9890.02,1412.86,73,7,Rajasthan,Home,0,Occasional Customers
+CUST0496,37.0,Male,53787.0,30,71041.5,2368.05,167,30,Gujarat,Groceries,1,High-Value Customers
+CUST0497,41.0,Male,41621.0,7,18110.68,2587.24,4,7,Maharashtra,Fashion,0,Occasional Customers
+CUST0498,29.0,Male,95564.0,3,5149.83,1716.61,19,3,Karnataka,Fashion,0,Occasional Customers
+CUST0499,52.0,Male,97984.0,1,2323.15,2323.15,102,1,Gujarat,Home,0,Occasional Customers
+CUST0500,50.0,Female,79792.0,36,38135.88,1059.33,173,36,Maharashtra,Groceries,1,High-Value Customers
+CUST0501,50.0,Female,65253.0,25,34048.0,1361.92,171,25,Tamil Nadu,Sports,0,Occasional Customers
+CUST0502,60.0,Male,54051.0,37,81243.86,2195.78,141,37,Karnataka,Home,1,High-Value Customers
+CUST0503,54.0,Male,69811.0,1,1281.39,1281.39,141,1,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0504,29.0,Female,50447.0,15,27717.15,1847.81,86,15,Rajasthan,Fashion,0,Occasional Customers
+CUST0505,20.0,Male,148046.0,37,26604.48,719.04,52,37,Maharashtra,Home,1,High-Value Customers
+CUST0506,18.0,Male,103930.0,13,24431.68,1879.36,111,13,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0507,50.0,Male,143278.0,40,104489.6,2612.24,109,40,Rajasthan,Groceries,1,High-Value Customers
+CUST0508,57.0,Female,120037.0,8,21057.52,2632.19,86,8,Maharashtra,Electronics,0,Occasional Customers
+CUST0509,27.0,Female,50254.0,5,11140.8,2228.16,43,5,Maharashtra,Home,0,Occasional Customers
+CUST0510,60.0,Male,104045.0,9,20592.99,2288.11,42,9,Tamil Nadu,Sports,0,Occasional Customers
+CUST0511,61.0,Male,136859.0,1,1762.2,1762.2,90,1,Maharashtra,Home,0,Occasional Customers
+CUST0512,46.0,Female,77418.0,36,66134.52,1837.07,115,36,Gujarat,Fashion,1,High-Value Customers
+CUST0513,30.0,Female,134534.0,35,20097.7,574.22,26,35,Maharashtra,Groceries,1,High-Value Customers
+CUST0514,29.0,Male,34472.0,2,2885.62,1442.81,151,2,Delhi,Beauty,0,Occasional Customers
+CUST0515,48.0,Female,131193.0,40,58486.8,1462.17,43,40,Rajasthan,Sports,1,High-Value Customers
+CUST0516,63.0,Male,23471.0,23,66327.17,2883.79,77,23,Maharashtra,Groceries,0,Occasional Customers
+CUST0517,19.0,Male,127332.0,9,12663.36,1407.04,156,9,Delhi,Home,0,Occasional Customers
+CUST0518,52.0,Female,140312.0,34,59097.44,1738.16,137,34,Maharashtra,Beauty,1,High-Value Customers
+CUST0519,40.0,Male,143379.0,46,77882.6,1693.1,20,46,Maharashtra,Groceries,1,High-Value Customers
+CUST0520,34.0,Female,115804.0,14,27761.02,1982.93,39,14,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0521,43.0,Male,28329.0,4,9180.2,2295.05,179,4,Gujarat,Sports,0,Occasional Customers
+CUST0522,25.0,Male,54865.0,30,24903.6,830.12,12,30,Rajasthan,Fashion,0,Occasional Customers
+CUST0523,46.0,Female,66850.0,31,52093.33,1680.43,11,31,Gujarat,Groceries,1,High-Value Customers
+CUST0524,43.0,Male,74220.0,38,95477.66,2512.57,154,38,Karnataka,Groceries,1,High-Value Customers
+CUST0525,27.0,Female,132234.0,11,16463.92,1496.72,42,11,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0526,43.0,Male,113808.0,35,34288.8,979.68,155,35,Tamil Nadu,Home,1,High-Value Customers
+CUST0527,51.0,Male,128381.0,8,16265.52,2033.19,11,8,Gujarat,Sports,0,Occasional Customers
+CUST0528,58.0,Male,26397.0,3,7519.65,2506.55,38,3,Tamil Nadu,Sports,0,Occasional Customers
+CUST0529,24.0,Female,117909.0,14,5275.06,376.79,98,14,Gujarat,Fashion,0,Occasional Customers
+CUST0530,21.0,Male,149004.0,13,30875.13,2375.01,171,13,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0531,62.0,Female,55525.0,45,112527.45,2500.61,19,45,Maharashtra,Beauty,1,High-Value Customers
+CUST0532,28.0,Male,73072.0,32,47752.32,1492.26,134,32,Gujarat,Groceries,1,High-Value Customers
+CUST0533,46.0,Female,110106.0,34,100410.84,2953.26,174,34,Gujarat,Fashion,1,High-Value Customers
+CUST0534,53.0,Male,103820.0,45,108125.1,2402.78,116,45,Delhi,Groceries,1,High-Value Customers
+CUST0535,42.0,Female,104530.0,19,44958.94,2366.26,113,19,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0536,38.0,Female,43284.0,38,87170.1,2293.95,170,38,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0537,53.0,Female,81330.0,16,9947.2,621.7,65,16,Gujarat,Groceries,0,Occasional Customers
+CUST0538,27.0,Female,103369.0,2,1616.5,808.25,99,2,Maharashtra,Beauty,0,Occasional Customers
+CUST0539,54.0,Female,45122.0,40,59966.8,1499.17,72,40,Maharashtra,Electronics,1,High-Value Customers
+CUST0540,26.0,Female,90553.0,17,15966.57,939.21,52,17,Rajasthan,Electronics,0,Occasional Customers
+CUST0541,41.0,Male,101906.0,34,46330.78,1362.67,118,34,Maharashtra,Groceries,1,High-Value Customers
+CUST0542,52.0,Male,114788.0,42,112883.4,2687.7,175,42,Tamil Nadu,Sports,1,High-Value Customers
+CUST0543,52.0,Female,82812.0,16,40129.92,2508.12,120,16,Delhi,Beauty,0,Occasional Customers
+CUST0544,42.0,Female,27999.0,38,74636.18,1964.11,7,38,Gujarat,Groceries,1,High-Value Customers
+CUST0545,35.0,Female,42436.0,2,5205.48,2602.74,11,2,Karnataka,Groceries,0,Occasional Customers
+CUST0546,56.0,Male,62963.0,2,4789.12,2394.56,103,2,Delhi,Fashion,0,Occasional Customers
+CUST0547,42.0,Male,22096.0,26,36430.16,1401.16,61,26,Karnataka,Fashion,0,Occasional Customers
+CUST0548,41.0,Male,149940.0,13,9918.74,762.98,68,13,Delhi,Sports,0,Occasional Customers
+CUST0549,40.0,Female,133737.0,47,77068.72,1639.76,153,47,Maharashtra,Beauty,1,High-Value Customers
+CUST0550,49.0,Male,45279.0,31,70104.64,2261.44,140,31,Tamil Nadu,Home,1,High-Value Customers
+CUST0551,54.0,Male,141092.0,34,48346.98,1421.97,154,34,Karnataka,Fashion,1,High-Value Customers
+CUST0552,29.0,Male,128899.0,39,80611.44,2066.96,102,39,Delhi,Home,1,High-Value Customers
+CUST0553,30.0,Male,134245.0,3,1392.36,464.12,110,3,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0554,40.0,Female,46201.0,8,18355.28,2294.41,140,8,Karnataka,Fashion,0,Occasional Customers
+CUST0555,42.0,Male,39715.0,23,56938.8,2475.6,171,23,Gujarat,Fashion,0,Occasional Customers
+CUST0556,52.0,Female,49309.0,14,30508.1,2179.15,51,14,Delhi,Beauty,0,Occasional Customers
+CUST0557,58.0,Male,35078.0,27,78525.18,2908.34,117,27,Gujarat,Sports,1,High-Value Customers
+CUST0558,47.0,Male,76614.0,29,72924.27,2514.63,165,29,Maharashtra,Home,1,High-Value Customers
+CUST0559,34.0,Male,25105.0,39,106417.74,2728.66,46,39,Gujarat,Fashion,1,High-Value Customers
+CUST0560,37.0,Male,137666.0,39,109746.0,2814.0,53,39,Gujarat,Fashion,1,High-Value Customers
+CUST0561,42.0,Male,114848.0,1,2443.77,2443.77,88,1,Rajasthan,Beauty,0,Occasional Customers
+CUST0562,39.0,Male,22839.0,17,35494.64,2087.92,121,17,Delhi,Beauty,0,Occasional Customers
+CUST0563,30.0,Female,88920.0,41,8856.41,216.01,13,41,Maharashtra,Sports,1,High-Value Customers
+CUST0564,36.0,Male,63619.0,30,45129.3,1504.31,89,30,Gujarat,Home,1,High-Value Customers
+CUST0565,53.0,Female,62821.0,13,23390.25,1799.25,125,13,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0566,29.0,Female,145736.0,21,22076.88,1051.28,118,21,Karnataka,Sports,0,Occasional Customers
+CUST0567,58.0,Female,33493.0,19,20723.11,1090.69,54,19,Gujarat,Electronics,0,Occasional Customers
+CUST0568,36.0,Male,37069.0,19,54933.75,2891.25,116,19,Maharashtra,Groceries,0,Occasional Customers
+CUST0569,29.0,Male,132443.0,25,67419.75,2696.79,118,25,Gujarat,Fashion,1,High-Value Customers
+CUST0570,26.0,Male,27531.0,22,56709.4,2577.7,4,22,Karnataka,Home,0,Occasional Customers
+CUST0571,24.0,Male,57051.0,31,41441.73,1336.83,75,31,Maharashtra,Sports,1,High-Value Customers
+CUST0572,45.0,Female,27736.0,17,4052.12,238.36,49,17,Delhi,Fashion,0,Occasional Customers
+CUST0573,31.0,Male,27710.0,23,9766.26,424.62,7,23,Maharashtra,Home,0,Occasional Customers
+CUST0574,48.0,Male,87155.0,32,34372.8,1074.15,110,32,Delhi,Home,1,High-Value Customers
+CUST0575,36.0,Female,33975.0,10,2440.8,244.08,122,10,Maharashtra,Home,0,Occasional Customers
+CUST0576,64.0,Female,82424.0,10,2480.2,248.02,11,10,Karnataka,Fashion,0,Occasional Customers
+CUST0577,33.0,Female,65603.0,36,99593.64,2766.49,92,36,Karnataka,Sports,1,High-Value Customers
+CUST0578,22.0,Male,43252.0,8,17417.92,2177.24,173,8,Maharashtra,Beauty,0,Occasional Customers
+CUST0579,52.0,Male,100797.0,20,21301.6,1065.08,23,20,Gujarat,Fashion,0,Occasional Customers
+CUST0580,29.0,Male,21431.0,32,18284.8,571.4,28,32,Karnataka,Home,0,Occasional Customers
+CUST0581,42.0,Male,94603.0,50,81629.0,1632.58,111,50,Delhi,Sports,1,High-Value Customers
+CUST0582,38.0,Male,57481.0,14,3009.58,214.97,57,14,Delhi,Groceries,0,Occasional Customers
+CUST0583,53.0,Male,112573.0,50,141378.0,2827.56,26,50,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0584,40.0,Male,29557.0,28,38121.44,1361.48,153,28,Rajasthan,Home,0,Occasional Customers
+CUST0585,33.0,Male,94971.0,46,61020.84,1326.54,54,46,Rajasthan,Groceries,1,High-Value Customers
+CUST0586,56.0,Male,123302.0,24,31047.84,1293.66,29,24,Rajasthan,Beauty,0,Occasional Customers
+CUST0587,62.0,Female,20162.0,15,5911.8,394.12,97,15,Delhi,Home,0,Occasional Customers
+CUST0588,59.0,Female,54742.0,22,43720.6,1987.3,164,22,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0589,56.0,Female,39675.0,30,67572.3,2252.41,14,30,Rajasthan,Home,1,High-Value Customers
+CUST0590,31.0,Male,93997.0,4,8372.6,2093.15,78,4,Rajasthan,Fashion,0,Occasional Customers
+CUST0591,48.0,Male,37015.0,13,7639.06,587.62,35,13,Maharashtra,Sports,0,Occasional Customers
+CUST0592,22.0,Male,70057.0,23,41877.25,1820.75,30,23,Maharashtra,Groceries,0,Occasional Customers
+CUST0593,52.0,Female,52591.0,8,14356.48,1794.56,92,8,Maharashtra,Sports,0,Occasional Customers
+CUST0594,40.0,Female,113583.0,18,47367.9,2631.55,17,18,Gujarat,Fashion,0,Occasional Customers
+CUST0595,46.0,Male,146133.0,12,15138.72,1261.56,158,12,Rajasthan,Fashion,0,Occasional Customers
+CUST0596,60.0,Female,120318.0,31,38444.96,1240.16,93,31,Gujarat,Sports,1,High-Value Customers
+CUST0597,28.0,Male,29833.0,14,27046.32,1931.88,173,14,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0598,35.0,Female,27896.0,34,67068.4,1972.6,79,34,Delhi,Sports,1,High-Value Customers
+CUST0599,64.0,Female,52972.0,18,27252.0,1514.0,110,18,Rajasthan,Sports,0,Occasional Customers
+CUST0600,29.0,Female,69733.0,34,48979.38,1440.57,179,34,Delhi,Electronics,1,High-Value Customers
+CUST0601,26.0,Female,140363.0,11,17419.71,1583.61,102,11,Maharashtra,Groceries,0,Occasional Customers
+CUST0602,27.0,Female,61800.0,41,107048.13,2610.93,106,41,Rajasthan,Electronics,1,High-Value Customers
+CUST0603,61.0,Male,116044.0,12,17895.24,1491.27,47,12,Karnataka,Home,0,Occasional Customers
+CUST0604,34.0,Female,25347.0,49,138758.69,2831.81,64,49,Gujarat,Sports,1,High-Value Customers
+CUST0605,55.0,Male,79063.0,15,24168.15,1611.21,166,15,Gujarat,Home,0,Occasional Customers
+CUST0606,24.0,Female,115850.0,31,88590.56,2857.76,64,31,Rajasthan,Groceries,1,High-Value Customers
+CUST0607,63.0,Female,22643.0,49,124064.57,2531.93,87,49,Maharashtra,Sports,1,High-Value Customers
+CUST0608,30.0,Female,60785.0,29,35229.49,1214.81,7,29,Gujarat,Home,0,Occasional Customers
+CUST0609,57.0,Male,38681.0,26,68073.2,2618.2,22,26,Maharashtra,Beauty,1,High-Value Customers
+CUST0610,59.0,Female,70026.0,18,9147.24,508.18,81,18,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0611,26.0,Female,123864.0,32,89284.16,2790.13,169,32,Delhi,Sports,1,High-Value Customers
+CUST0612,44.0,Female,35892.0,22,43309.2,1968.6,74,22,Karnataka,Fashion,0,Occasional Customers
+CUST0613,19.0,Male,67299.0,38,13387.02,352.29,138,38,Delhi,Electronics,1,High-Value Customers
+CUST0614,22.0,Male,37073.0,17,34066.64,2003.92,135,17,Delhi,Home,0,Occasional Customers
+CUST0615,46.0,Male,122304.0,23,67341.47,2927.89,125,23,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0616,54.0,Male,50682.0,24,9490.56,395.44,50,24,Gujarat,Sports,0,Occasional Customers
+CUST0617,55.0,Female,117798.0,50,87656.5,1753.13,52,50,Karnataka,Fashion,1,High-Value Customers
+CUST0618,36.0,Male,146021.0,8,18350.56,2293.82,161,8,Gujarat,Fashion,0,Occasional Customers
+CUST0619,25.0,Female,116894.0,41,101217.52,2468.72,1,41,Rajasthan,Home,1,High-Value Customers
+CUST0620,62.0,Male,144302.0,6,8152.32,1358.72,162,6,Delhi,Sports,0,Occasional Customers
+CUST0621,18.0,Male,80574.0,5,3858.35,771.67,4,5,Rajasthan,Beauty,0,Occasional Customers
+CUST0622,39.0,Female,135359.0,44,14016.64,318.56,145,44,Maharashtra,Beauty,1,High-Value Customers
+CUST0623,34.0,Female,27927.0,29,52873.67,1823.23,132,29,Delhi,Home,1,High-Value Customers
+CUST0624,24.0,Male,68330.0,28,41108.2,1468.15,171,28,Gujarat,Sports,1,High-Value Customers
+CUST0625,42.0,Female,86707.0,11,31421.28,2856.48,4,11,Delhi,Home,0,Occasional Customers
+CUST0626,62.0,Female,140279.0,1,369.69,369.69,1,1,Maharashtra,Sports,0,Occasional Customers
+CUST0627,21.0,Male,97454.0,43,91121.73,2119.11,71,43,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0628,53.0,Female,127439.0,19,5128.29,269.91,178,19,Rajasthan,Home,0,Occasional Customers
+CUST0629,23.0,Female,124646.0,9,6120.18,680.02,35,9,Rajasthan,Sports,0,Occasional Customers
+CUST0630,48.0,Female,85428.0,27,39690.54,1470.02,8,27,Gujarat,Beauty,0,Occasional Customers
+CUST0631,36.0,Male,70601.0,34,50103.76,1473.64,152,34,Delhi,Sports,1,High-Value Customers
+CUST0632,61.0,Female,97465.0,44,93278.24,2119.96,36,44,Gujarat,Sports,1,High-Value Customers
+CUST0633,56.0,Male,22539.0,4,10994.4,2748.6,178,4,Tamil Nadu,Home,0,Occasional Customers
+CUST0634,44.0,Male,122263.0,36,71614.44,1989.29,123,36,Delhi,Electronics,1,High-Value Customers
+CUST0635,27.0,Male,131487.0,18,51658.2,2869.9,43,18,Delhi,Electronics,0,Occasional Customers
+CUST0636,43.0,Male,42669.0,15,40027.8,2668.52,27,15,Gujarat,Electronics,0,Occasional Customers
+CUST0637,36.0,Female,90968.0,13,23875.8,1836.6,32,13,Gujarat,Electronics,0,Occasional Customers
+CUST0638,56.0,Female,40644.0,19,48157.78,2534.62,78,19,Maharashtra,Groceries,0,Occasional Customers
+CUST0639,20.0,Female,38745.0,49,97961.78,1999.22,121,49,Tamil Nadu,Home,1,High-Value Customers
+CUST0640,62.0,Male,140852.0,6,2519.76,419.96,146,6,Maharashtra,Fashion,0,Occasional Customers
+CUST0641,30.0,Male,148081.0,48,109131.84,2273.58,156,48,Rajasthan,Home,1,High-Value Customers
+CUST0642,45.0,Male,48228.0,12,5588.88,465.74,157,12,Delhi,Groceries,0,Occasional Customers
+CUST0643,37.0,Female,138358.0,37,68946.91,1863.43,16,37,Gujarat,Electronics,1,High-Value Customers
+CUST0644,45.0,Male,54521.0,17,36845.63,2167.39,99,17,Delhi,Groceries,0,Occasional Customers
+CUST0645,25.0,Female,142788.0,23,8884.44,386.28,47,23,Delhi,Beauty,0,Occasional Customers
+CUST0646,58.0,Female,117239.0,26,22001.98,846.23,31,26,Karnataka,Beauty,0,Occasional Customers
+CUST0647,56.0,Male,46928.0,29,80152.52,2763.88,4,29,Rajasthan,Home,1,High-Value Customers
+CUST0648,18.0,Female,38322.0,33,63547.44,1925.68,165,33,Karnataka,Home,1,High-Value Customers
+CUST0649,20.0,Male,77714.0,27,24019.2,889.6,17,27,Delhi,Fashion,0,Occasional Customers
+CUST0650,30.0,Female,107896.0,25,53347.5,2133.9,39,25,Gujarat,Fashion,1,High-Value Customers
+CUST0651,45.0,Female,82292.0,10,18709.7,1870.97,48,10,Delhi,Beauty,0,Occasional Customers
+CUST0652,42.0,Male,49055.0,47,75407.27,1604.41,174,47,Rajasthan,Electronics,1,High-Value Customers
+CUST0653,50.0,Male,62891.0,23,67466.36,2933.32,176,23,Karnataka,Groceries,1,High-Value Customers
+CUST0654,55.0,Female,101912.0,21,44387.07,2113.67,39,21,Gujarat,Fashion,0,Occasional Customers
+CUST0655,23.0,Female,26588.0,21,26276.04,1251.24,132,21,Delhi,Sports,0,Occasional Customers
+CUST0656,61.0,Male,110536.0,43,104929.03,2440.21,30,43,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0657,62.0,Female,26304.0,13,34798.79,2676.83,158,13,Rajasthan,Electronics,0,Occasional Customers
+CUST0658,49.0,Female,27345.0,37,20372.94,550.62,22,37,Rajasthan,Electronics,1,High-Value Customers
+CUST0659,62.0,Female,49300.0,33,25131.15,761.55,66,33,Tamil Nadu,Home,0,Occasional Customers
+CUST0660,64.0,Male,44259.0,24,19330.56,805.44,108,24,Delhi,Groceries,0,Occasional Customers
+CUST0661,38.0,Female,111006.0,44,93957.16,2135.39,12,44,Rajasthan,Electronics,1,High-Value Customers
+CUST0662,33.0,Female,108553.0,11,20773.61,1888.51,36,11,Gujarat,Fashion,0,Occasional Customers
+CUST0663,38.0,Male,35352.0,17,32864.06,1933.18,18,17,Delhi,Fashion,0,Occasional Customers
+CUST0664,28.0,Male,149350.0,4,11336.68,2834.17,90,4,Delhi,Beauty,0,Occasional Customers
+CUST0665,54.0,Female,53365.0,47,111509.85,2372.55,1,47,Karnataka,Electronics,1,High-Value Customers
+CUST0666,53.0,Male,39446.0,25,13955.5,558.22,127,25,Rajasthan,Sports,0,Occasional Customers
+CUST0667,52.0,Female,22336.0,30,35190.6,1173.02,90,30,Rajasthan,Home,0,Occasional Customers
+CUST0668,36.0,Male,82032.0,9,12771.9,1419.1,87,9,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0669,37.0,Male,80574.0,21,27482.49,1308.69,90,21,Karnataka,Sports,0,Occasional Customers
+CUST0670,35.0,Female,117852.0,20,41481.2,2074.06,134,20,Karnataka,Home,0,Occasional Customers
+CUST0671,64.0,Male,118876.0,19,51248.7,2697.3,70,19,Rajasthan,Fashion,0,Occasional Customers
+CUST0672,58.0,Male,27521.0,19,20081.86,1056.94,44,19,Delhi,Sports,0,Occasional Customers
+CUST0673,31.0,Male,91707.0,12,20943.12,1745.26,152,12,Karnataka,Home,0,Occasional Customers
+CUST0674,32.0,Female,43481.0,37,89182.95,2410.35,86,37,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0675,48.0,Male,38474.0,42,57347.22,1365.41,19,42,Karnataka,Fashion,1,High-Value Customers
+CUST0676,18.0,Male,66760.0,17,11402.41,670.73,101,17,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0677,20.0,Female,75718.0,37,56604.82,1529.86,146,37,Karnataka,Fashion,1,High-Value Customers
+CUST0678,33.0,Male,64629.0,48,17021.76,354.62,95,48,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0679,40.0,Female,65232.0,39,110708.13,2838.67,101,39,Karnataka,Beauty,1,High-Value Customers
+CUST0680,28.0,Male,106544.0,28,11466.0,409.5,30,28,Karnataka,Sports,0,Occasional Customers
+CUST0681,29.0,Female,87169.0,41,58534.88,1427.68,170,41,Gujarat,Home,1,High-Value Customers
+CUST0682,27.0,Male,147941.0,35,58928.45,1683.67,33,35,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0683,49.0,Female,70669.0,47,139065.95,2958.85,12,47,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0684,33.0,Male,98021.0,48,31913.28,664.86,118,48,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0685,25.0,Male,129153.0,18,9367.38,520.41,94,18,Maharashtra,Electronics,0,Occasional Customers
+CUST0686,55.0,Male,89184.0,14,3141.32,224.38,155,14,Karnataka,Electronics,0,Occasional Customers
+CUST0687,29.0,Male,67945.0,35,22246.0,635.6,167,35,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0688,41.0,Male,33140.0,44,34335.84,780.36,137,44,Rajasthan,Electronics,1,High-Value Customers
+CUST0689,45.0,Male,146468.0,41,80590.83,1965.63,149,41,Maharashtra,Home,1,High-Value Customers
+CUST0690,25.0,Female,103457.0,7,5706.26,815.18,76,7,Gujarat,Beauty,0,Occasional Customers
+CUST0691,45.0,Male,34357.0,41,10555.86,257.46,29,41,Tamil Nadu,Home,1,High-Value Customers
+CUST0692,53.0,Male,131672.0,13,32688.89,2514.53,161,13,Tamil Nadu,Sports,0,Occasional Customers
+CUST0693,43.0,Female,88673.0,18,22026.06,1223.67,117,18,Maharashtra,Electronics,0,Occasional Customers
+CUST0694,25.0,Female,141673.0,37,44042.95,1190.35,15,37,Karnataka,Groceries,1,High-Value Customers
+CUST0695,45.0,Male,85633.0,13,13610.22,1046.94,2,13,Rajasthan,Sports,0,Occasional Customers
+CUST0696,45.0,Male,96943.0,36,105517.8,2931.05,180,36,Gujarat,Groceries,1,High-Value Customers
+CUST0697,54.0,Male,116111.0,31,20965.92,676.32,117,31,Tamil Nadu,Sports,0,Occasional Customers
+CUST0698,58.0,Female,98258.0,2,5430.14,2715.07,172,2,Karnataka,Beauty,0,Occasional Customers
+CUST0699,53.0,Female,32924.0,16,38000.8,2375.05,18,16,Rajasthan,Home,0,Occasional Customers
+CUST0700,44.0,Male,89286.0,9,3727.26,414.14,3,9,Rajasthan,Fashion,0,Occasional Customers
+CUST0701,34.0,Female,113269.0,9,26665.56,2962.84,135,9,Gujarat,Home,0,Occasional Customers
+CUST0702,26.0,Female,147563.0,38,36473.16,959.82,171,38,Delhi,Electronics,1,High-Value Customers
+CUST0703,50.0,Female,94071.0,11,5236.33,476.03,166,11,Rajasthan,Fashion,0,Occasional Customers
+CUST0704,37.0,Female,77326.0,22,55485.76,2522.08,165,22,Delhi,Groceries,0,Occasional Customers
+CUST0705,30.0,Male,110023.0,33,71896.77,2178.69,161,33,Rajasthan,Beauty,1,High-Value Customers
+CUST0706,45.0,Male,140101.0,36,69415.56,1928.21,108,36,Gujarat,Beauty,1,High-Value Customers
+CUST0707,46.0,Male,50651.0,45,28653.75,636.75,95,45,Maharashtra,Groceries,1,High-Value Customers
+CUST0708,30.0,Male,90202.0,23,35415.17,1539.79,122,23,Gujarat,Electronics,0,Occasional Customers
+CUST0709,63.0,Female,68777.0,45,107350.2,2385.56,11,45,Gujarat,Groceries,1,High-Value Customers
+CUST0710,52.0,Female,36994.0,45,47256.75,1050.15,68,45,Maharashtra,Sports,1,High-Value Customers
+CUST0711,23.0,Male,87263.0,34,36472.82,1072.73,123,34,Maharashtra,Electronics,1,High-Value Customers
+CUST0712,35.0,Male,79634.0,9,1879.11,208.79,113,9,Karnataka,Fashion,0,Occasional Customers
+CUST0713,22.0,Male,120158.0,24,16509.12,687.88,98,24,Rajasthan,Groceries,0,Occasional Customers
+CUST0714,64.0,Female,30800.0,8,21209.12,2651.14,93,8,Karnataka,Electronics,0,Occasional Customers
+CUST0715,42.0,Male,57823.0,7,10058.23,1436.89,22,7,Maharashtra,Fashion,0,Occasional Customers
+CUST0716,19.0,Male,128575.0,36,106410.96,2955.86,172,36,Delhi,Groceries,1,High-Value Customers
+CUST0717,27.0,Male,83878.0,18,23543.64,1307.98,127,18,Delhi,Beauty,0,Occasional Customers
+CUST0718,47.0,Male,38708.0,3,6607.56,2202.52,134,3,Gujarat,Groceries,0,Occasional Customers
+CUST0719,62.0,Female,32819.0,28,27702.36,989.37,170,28,Tamil Nadu,Home,0,Occasional Customers
+CUST0720,22.0,Female,94905.0,6,7312.02,1218.67,25,6,Gujarat,Groceries,0,Occasional Customers
+CUST0721,50.0,Male,83870.0,44,32297.32,734.03,85,44,Gujarat,Home,1,High-Value Customers
+CUST0722,18.0,Female,29283.0,44,51557.88,1171.77,55,44,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0723,35.0,Female,50573.0,21,36377.67,1732.27,144,21,Rajasthan,Groceries,0,Occasional Customers
+CUST0724,49.0,Female,98707.0,28,83354.88,2976.96,95,28,Maharashtra,Fashion,1,High-Value Customers
+CUST0725,64.0,Male,50933.0,40,82390.4,2059.76,142,40,Delhi,Fashion,1,High-Value Customers
+CUST0726,28.0,Male,25774.0,1,757.89,757.89,167,1,Gujarat,Electronics,0,Occasional Customers
+CUST0727,38.0,Male,92055.0,36,11732.04,325.89,156,36,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0728,43.0,Female,30983.0,21,11629.8,553.8,179,21,Karnataka,Fashion,0,Occasional Customers
+CUST0729,42.0,Male,116468.0,43,76331.45,1775.15,119,43,Gujarat,Groceries,1,High-Value Customers
+CUST0730,39.0,Male,116334.0,35,81985.75,2342.45,177,35,Delhi,Groceries,1,High-Value Customers
+CUST0731,44.0,Male,38133.0,13,36831.21,2833.17,9,13,Maharashtra,Beauty,0,Occasional Customers
+CUST0732,30.0,Female,145555.0,49,11970.7,244.3,173,49,Gujarat,Electronics,1,High-Value Customers
+CUST0733,50.0,Male,34939.0,10,16637.3,1663.73,150,10,Gujarat,Fashion,0,Occasional Customers
+CUST0734,51.0,Female,20781.0,44,66810.92,1518.43,160,44,Rajasthan,Electronics,1,High-Value Customers
+CUST0735,58.0,Female,134586.0,47,95736.65,2036.95,42,47,Tamil Nadu,Home,1,High-Value Customers
+CUST0736,52.0,Male,76700.0,10,17668.2,1766.82,53,10,Karnataka,Fashion,0,Occasional Customers
+CUST0737,18.0,Female,47624.0,46,97690.66,2123.71,74,46,Karnataka,Electronics,1,High-Value Customers
+CUST0738,38.0,Male,26823.0,13,26554.19,2042.63,39,13,Maharashtra,Beauty,0,Occasional Customers
+CUST0739,23.0,Female,38489.0,37,19522.31,527.63,122,37,Delhi,Beauty,1,High-Value Customers
+CUST0740,45.0,Male,138555.0,38,92689.98,2439.21,15,38,Maharashtra,Fashion,1,High-Value Customers
+CUST0741,34.0,Female,59961.0,24,13081.2,545.05,157,24,Gujarat,Home,0,Occasional Customers
+CUST0742,22.0,Female,139664.0,2,4311.78,2155.89,123,2,Gujarat,Beauty,0,Occasional Customers
+CUST0743,48.0,Female,49118.0,22,30034.62,1365.21,111,22,Karnataka,Beauty,0,Occasional Customers
+CUST0744,22.0,Female,120417.0,17,27859.26,1638.78,131,17,Delhi,Home,0,Occasional Customers
+CUST0745,55.0,Male,101816.0,36,98252.28,2729.23,83,36,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0746,20.0,Female,42263.0,14,37683.38,2691.67,10,14,Delhi,Beauty,0,Occasional Customers
+CUST0747,40.0,Female,33565.0,10,24900.0,2490.0,92,10,Gujarat,Groceries,0,Occasional Customers
+CUST0748,54.0,Female,40354.0,35,56994.7,1628.42,29,35,Tamil Nadu,Sports,1,High-Value Customers
+CUST0749,54.0,Male,62951.0,25,56536.75,2261.47,35,25,Delhi,Sports,0,Occasional Customers
+CUST0750,27.0,Female,111179.0,3,4908.33,1636.11,6,3,Delhi,Beauty,0,Occasional Customers
+CUST0751,42.0,Female,43648.0,47,123840.3,2634.9,140,47,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0752,36.0,Female,70729.0,38,50455.26,1327.77,111,38,Gujarat,Electronics,1,High-Value Customers
+CUST0753,34.0,Male,61971.0,17,49583.22,2916.66,38,17,Delhi,Fashion,0,Occasional Customers
+CUST0754,38.0,Female,38658.0,12,33726.0,2810.5,77,12,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0755,31.0,Male,41253.0,24,54635.76,2276.49,93,24,Rajasthan,Electronics,0,Occasional Customers
+CUST0756,26.0,Female,84166.0,29,28488.44,982.36,147,29,Rajasthan,Home,0,Occasional Customers
+CUST0757,63.0,Male,68563.0,43,24451.09,568.63,67,43,Gujarat,Groceries,1,High-Value Customers
+CUST0758,18.0,Female,46390.0,25,64829.25,2593.17,136,25,Tamil Nadu,Sports,1,High-Value Customers
+CUST0759,62.0,Female,108664.0,36,23862.6,662.85,8,36,Rajasthan,Groceries,1,High-Value Customers
+CUST0760,30.0,Male,71578.0,26,67390.18,2591.93,122,26,Tamil Nadu,Home,1,High-Value Customers
+CUST0761,21.0,Female,99025.0,38,59817.32,1574.14,84,38,Delhi,Beauty,1,High-Value Customers
+CUST0762,18.0,Male,123850.0,1,1338.36,1338.36,175,1,Gujarat,Home,0,Occasional Customers
+CUST0763,57.0,Female,52658.0,20,54578.6,2728.93,132,20,Rajasthan,Home,0,Occasional Customers
+CUST0764,49.0,Female,26852.0,28,52941.84,1890.78,179,28,Delhi,Beauty,1,High-Value Customers
+CUST0765,51.0,Female,147282.0,16,29032.32,1814.52,85,16,Maharashtra,Beauty,0,Occasional Customers
+CUST0766,45.0,Female,114986.0,47,82933.38,1764.54,45,47,Maharashtra,Beauty,1,High-Value Customers
+CUST0767,48.0,Female,22551.0,17,21067.59,1239.27,136,17,Gujarat,Beauty,0,Occasional Customers
+CUST0768,25.0,Male,91947.0,40,95992.0,2399.8,87,40,Rajasthan,Beauty,1,High-Value Customers
+CUST0769,56.0,Male,81001.0,28,25419.52,907.84,16,28,Rajasthan,Home,0,Occasional Customers
+CUST0770,43.0,Female,69159.0,12,33946.92,2828.91,77,12,Rajasthan,Fashion,0,Occasional Customers
+CUST0771,51.0,Female,142775.0,27,72985.32,2703.16,9,27,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0772,20.0,Female,71707.0,42,48087.48,1144.94,60,42,Delhi,Electronics,1,High-Value Customers
+CUST0773,29.0,Female,53243.0,47,105397.5,2242.5,78,47,Rajasthan,Fashion,1,High-Value Customers
+CUST0774,18.0,Male,41800.0,30,54150.6,1805.02,77,30,Delhi,Sports,1,High-Value Customers
+CUST0775,61.0,Female,95939.0,41,46962.22,1145.42,71,41,Gujarat,Fashion,1,High-Value Customers
+CUST0776,22.0,Male,77828.0,34,100907.24,2967.86,15,34,Rajasthan,Home,1,High-Value Customers
+CUST0777,47.0,Female,27239.0,37,10014.42,270.66,71,37,Gujarat,Beauty,0,Occasional Customers
+CUST0778,47.0,Male,26710.0,6,5444.46,907.41,102,6,Rajasthan,Beauty,0,Occasional Customers
+CUST0779,34.0,Male,41384.0,7,11593.47,1656.21,169,7,Maharashtra,Home,0,Occasional Customers
+CUST0780,64.0,Male,41038.0,32,53167.04,1661.47,22,32,Karnataka,Sports,1,High-Value Customers
+CUST0781,40.0,Male,60846.0,32,59168.32,1849.01,152,32,Gujarat,Fashion,1,High-Value Customers
+CUST0782,32.0,Female,107983.0,25,57617.25,2304.69,113,25,Rajasthan,Home,1,High-Value Customers
+CUST0783,54.0,Male,87821.0,33,64209.42,1945.74,172,33,Karnataka,Electronics,1,High-Value Customers
+CUST0784,38.0,Male,57991.0,7,13165.53,1880.79,1,7,Gujarat,Beauty,0,Occasional Customers
+CUST0785,31.0,Male,99057.0,12,4198.08,349.84,10,12,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0786,19.0,Male,133193.0,16,20068.48,1254.28,110,16,Rajasthan,Electronics,0,Occasional Customers
+CUST0787,28.0,Male,26971.0,16,13596.16,849.76,113,16,Tamil Nadu,Sports,0,Occasional Customers
+CUST0788,56.0,Male,49139.0,43,40550.72,943.04,50,43,Maharashtra,Electronics,1,High-Value Customers
+CUST0789,55.0,Female,105445.0,36,63077.04,1752.14,12,36,Rajasthan,Home,1,High-Value Customers
+CUST0790,51.0,Female,97067.0,13,9861.93,758.61,89,13,Maharashtra,Fashion,0,Occasional Customers
+CUST0791,55.0,Female,100257.0,7,7161.42,1023.06,154,7,Karnataka,Beauty,0,Occasional Customers
+CUST0792,51.0,Male,104742.0,36,31098.24,863.84,112,36,Gujarat,Sports,1,High-Value Customers
+CUST0793,35.0,Male,57711.0,47,134223.07,2855.81,78,47,Delhi,Sports,1,High-Value Customers
+CUST0794,47.0,Female,26530.0,9,25605.54,2845.06,169,9,Maharashtra,Groceries,0,Occasional Customers
+CUST0795,32.0,Male,31116.0,32,61050.88,1907.84,164,32,Delhi,Electronics,1,High-Value Customers
+CUST0796,44.0,Male,85794.0,11,30675.26,2788.66,121,11,Delhi,Groceries,0,Occasional Customers
+CUST0797,51.0,Male,20282.0,8,19202.24,2400.28,23,8,Gujarat,Fashion,0,Occasional Customers
+CUST0798,55.0,Male,99473.0,33,61111.05,1851.85,171,33,Karnataka,Fashion,1,High-Value Customers
+CUST0799,50.0,Male,21898.0,23,5014.46,218.02,134,23,Gujarat,Groceries,0,Occasional Customers
+CUST0800,41.0,Male,24135.0,25,59076.25,2363.05,171,25,Rajasthan,Beauty,1,High-Value Customers
+CUST0801,32.0,Female,26629.0,8,17335.76,2166.97,25,8,Maharashtra,Fashion,0,Occasional Customers
+CUST0802,47.0,Female,80574.0,45,86521.95,1922.71,18,45,Delhi,Groceries,1,High-Value Customers
+CUST0803,59.0,Female,145147.0,22,51242.18,2329.19,141,22,Gujarat,Electronics,0,Occasional Customers
+CUST0804,34.0,Female,105120.0,4,6544.72,1636.18,43,4,Gujarat,Groceries,0,Occasional Customers
+CUST0805,22.0,Female,139798.0,40,86857.2,2171.43,78,40,Gujarat,Groceries,1,High-Value Customers
+CUST0806,46.0,Female,109087.0,3,8455.44,2818.48,28,3,Maharashtra,Home,0,Occasional Customers
+CUST0807,21.0,Female,85031.0,29,36315.25,1252.25,146,29,Karnataka,Fashion,1,High-Value Customers
+CUST0808,27.0,Male,53380.0,41,89492.34,2182.74,59,41,Gujarat,Beauty,1,High-Value Customers
+CUST0809,34.0,Male,149951.0,29,44425.97,1531.93,63,29,Maharashtra,Beauty,1,High-Value Customers
+CUST0810,27.0,Male,132507.0,34,71002.88,2088.32,92,34,Delhi,Home,1,High-Value Customers
+CUST0811,34.0,Female,37071.0,34,79427.4,2336.1,179,34,Rajasthan,Sports,1,High-Value Customers
+CUST0812,37.0,Female,40074.0,28,9163.56,327.27,56,28,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0813,41.0,Male,110724.0,13,26136.24,2010.48,155,13,Maharashtra,Groceries,0,Occasional Customers
+CUST0814,22.0,Female,87843.0,15,12523.2,834.88,160,15,Tamil Nadu,Home,0,Occasional Customers
+CUST0815,51.0,Male,59901.0,23,47750.07,2076.09,111,23,Gujarat,Electronics,0,Occasional Customers
+CUST0816,23.0,Female,31205.0,44,66498.08,1511.32,137,44,Gujarat,Fashion,1,High-Value Customers
+CUST0817,19.0,Male,75661.0,26,61514.7,2365.95,68,26,Maharashtra,Fashion,1,High-Value Customers
+CUST0818,30.0,Male,144661.0,4,2182.08,545.52,46,4,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0819,60.0,Male,25906.0,26,50796.2,1953.7,67,26,Gujarat,Groceries,0,Occasional Customers
+CUST0820,60.0,Male,22591.0,40,39188.8,979.72,154,40,Delhi,Electronics,1,High-Value Customers
+CUST0821,28.0,Male,145576.0,9,23295.15,2588.35,136,9,Karnataka,Home,0,Occasional Customers
+CUST0822,64.0,Male,82987.0,5,13997.35,2799.47,6,5,Karnataka,Home,0,Occasional Customers
+CUST0823,40.0,Female,83370.0,32,95677.44,2989.92,24,32,Gujarat,Fashion,1,High-Value Customers
+CUST0824,33.0,Female,100685.0,20,48576.4,2428.82,176,20,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0825,48.0,Male,130454.0,50,115523.0,2310.46,94,50,Rajasthan,Electronics,1,High-Value Customers
+CUST0826,28.0,Female,125487.0,11,8837.4,803.4,173,11,Gujarat,Electronics,0,Occasional Customers
+CUST0827,33.0,Female,74400.0,15,17112.3,1140.82,13,15,Rajasthan,Beauty,0,Occasional Customers
+CUST0828,25.0,Male,45150.0,32,48125.12,1503.91,25,32,Rajasthan,Beauty,1,High-Value Customers
+CUST0829,21.0,Male,51852.0,28,66233.16,2365.47,148,28,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0830,57.0,Male,62870.0,22,60761.8,2761.9,118,22,Rajasthan,Electronics,0,Occasional Customers
+CUST0831,21.0,Male,139796.0,41,29913.19,729.59,82,41,Delhi,Sports,1,High-Value Customers
+CUST0832,42.0,Female,72756.0,17,47304.71,2782.63,111,17,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0833,20.0,Male,135357.0,26,55841.5,2147.75,82,26,Gujarat,Home,1,High-Value Customers
+CUST0834,49.0,Female,139052.0,44,84047.04,1910.16,66,44,Delhi,Home,1,High-Value Customers
+CUST0835,20.0,Female,76481.0,7,5316.92,759.56,45,7,Maharashtra,Fashion,0,Occasional Customers
+CUST0836,44.0,Male,21283.0,42,14929.74,355.47,114,42,Karnataka,Sports,1,High-Value Customers
+CUST0837,46.0,Female,53691.0,26,46584.2,1791.7,175,26,Gujarat,Electronics,0,Occasional Customers
+CUST0838,49.0,Male,21125.0,25,50606.0,2024.24,63,25,Gujarat,Sports,0,Occasional Customers
+CUST0839,36.0,Female,87065.0,10,7901.9,790.19,76,10,Gujarat,Fashion,0,Occasional Customers
+CUST0840,38.0,Male,148734.0,45,79113.6,1758.08,114,45,Delhi,Home,1,High-Value Customers
+CUST0841,22.0,Female,46170.0,19,49365.42,2598.18,111,19,Maharashtra,Home,0,Occasional Customers
+CUST0842,35.0,Female,28438.0,11,27919.98,2538.18,147,11,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0843,45.0,Male,40095.0,13,36355.67,2796.59,35,13,Maharashtra,Fashion,0,Occasional Customers
+CUST0844,59.0,Female,36154.0,8,9795.84,1224.48,53,8,Delhi,Fashion,0,Occasional Customers
+CUST0845,39.0,Female,28004.0,40,43621.6,1090.54,26,40,Gujarat,Electronics,1,High-Value Customers
+CUST0846,38.0,Female,29752.0,4,9193.56,2298.39,14,4,Karnataka,Electronics,0,Occasional Customers
+CUST0847,23.0,Female,75426.0,47,66134.17,1407.11,118,47,Gujarat,Beauty,1,High-Value Customers
+CUST0848,18.0,Female,128896.0,31,13799.34,445.14,45,31,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0849,22.0,Male,46819.0,28,27771.52,991.84,172,28,Rajasthan,Sports,0,Occasional Customers
+CUST0850,58.0,Male,122168.0,11,15092.33,1372.03,51,11,Karnataka,Groceries,0,Occasional Customers
+CUST0851,29.0,Female,112051.0,43,43819.15,1019.05,171,43,Gujarat,Groceries,1,High-Value Customers
+CUST0852,43.0,Male,147905.0,1,1130.18,1130.18,119,1,Karnataka,Fashion,0,Occasional Customers
+CUST0853,63.0,Female,44217.0,49,50105.93,1022.57,151,49,Rajasthan,Sports,1,High-Value Customers
+CUST0854,51.0,Female,145949.0,47,14861.4,316.2,19,47,Maharashtra,Fashion,1,High-Value Customers
+CUST0855,31.0,Male,108708.0,38,75387.06,1983.87,82,38,Delhi,Sports,1,High-Value Customers
+CUST0856,43.0,Male,52994.0,24,44938.08,1872.42,76,24,Gujarat,Home,0,Occasional Customers
+CUST0857,62.0,Female,35036.0,47,95385.09,2029.47,92,47,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0858,44.0,Male,97275.0,31,22892.57,738.47,33,31,Maharashtra,Fashion,0,Occasional Customers
+CUST0859,26.0,Female,117756.0,41,42141.03,1027.83,147,41,Gujarat,Fashion,1,High-Value Customers
+CUST0860,43.0,Male,69416.0,46,89006.32,1934.92,28,46,Maharashtra,Beauty,1,High-Value Customers
+CUST0861,64.0,Female,29587.0,50,93948.0,1878.96,123,50,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0862,39.0,Male,130053.0,26,42060.72,1617.72,180,26,Gujarat,Electronics,1,High-Value Customers
+CUST0863,64.0,Female,115665.0,49,57876.84,1181.16,126,49,Rajasthan,Electronics,1,High-Value Customers
+CUST0864,47.0,Male,20645.0,50,137810.5,2756.21,177,50,Rajasthan,Sports,1,High-Value Customers
+CUST0865,60.0,Female,50930.0,5,5756.8,1151.36,37,5,Tamil Nadu,Home,0,Occasional Customers
+CUST0866,34.0,Male,101835.0,20,29514.6,1475.73,154,20,Karnataka,Beauty,0,Occasional Customers
+CUST0867,43.0,Female,142232.0,41,86047.52,2098.72,99,41,Tamil Nadu,Sports,1,High-Value Customers
+CUST0868,53.0,Female,50090.0,11,18925.06,1720.46,98,11,Karnataka,Electronics,0,Occasional Customers
+CUST0869,18.0,Male,107489.0,33,38652.24,1171.28,127,33,Gujarat,Beauty,1,High-Value Customers
+CUST0870,25.0,Male,72142.0,50,70990.5,1419.81,168,50,Karnataka,Beauty,1,High-Value Customers
+CUST0871,52.0,Male,131979.0,38,92132.9,2424.55,80,38,Gujarat,Home,1,High-Value Customers
+CUST0872,32.0,Female,46475.0,27,26426.52,978.76,38,27,Gujarat,Beauty,0,Occasional Customers
+CUST0873,64.0,Female,38888.0,34,20342.54,598.31,77,34,Delhi,Fashion,0,Occasional Customers
+CUST0874,39.0,Female,63732.0,15,16152.9,1076.86,126,15,Gujarat,Beauty,0,Occasional Customers
+CUST0875,31.0,Male,101623.0,32,82518.4,2578.7,87,32,Karnataka,Home,1,High-Value Customers
+CUST0876,43.0,Male,66305.0,21,9432.57,449.17,54,21,Delhi,Sports,0,Occasional Customers
+CUST0877,45.0,Female,66037.0,46,136930.5,2976.75,150,46,Delhi,Home,1,High-Value Customers
+CUST0878,40.0,Male,29346.0,5,8574.05,1714.81,16,5,Gujarat,Home,0,Occasional Customers
+CUST0879,31.0,Female,20587.0,6,17745.42,2957.57,28,6,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0880,41.0,Male,32763.0,38,107509.22,2829.19,163,38,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0881,19.0,Female,79165.0,22,32293.36,1467.88,173,22,Rajasthan,Electronics,0,Occasional Customers
+CUST0882,62.0,Male,127481.0,18,13604.04,755.78,46,18,Delhi,Sports,0,Occasional Customers
+CUST0883,43.0,Male,89615.0,14,9263.52,661.68,72,14,Gujarat,Groceries,0,Occasional Customers
+CUST0884,31.0,Female,56116.0,10,8719.7,871.97,85,10,Tamil Nadu,Sports,0,Occasional Customers
+CUST0885,24.0,Female,140987.0,46,100665.02,2188.37,26,46,Gujarat,Fashion,1,High-Value Customers
+CUST0886,20.0,Female,105751.0,13,12535.38,964.26,85,13,Gujarat,Beauty,0,Occasional Customers
+CUST0887,64.0,Male,111353.0,31,35835.69,1155.99,153,31,Delhi,Home,1,High-Value Customers
+CUST0888,40.0,Male,110301.0,30,43697.4,1456.58,65,30,Rajasthan,Groceries,1,High-Value Customers
+CUST0889,63.0,Female,115648.0,3,8271.15,2757.05,134,3,Delhi,Fashion,0,Occasional Customers
+CUST0890,60.0,Female,45556.0,30,21909.0,730.3,151,30,Maharashtra,Electronics,0,Occasional Customers
+CUST0891,64.0,Male,79042.0,6,1284.42,214.07,115,6,Tamil Nadu,Home,0,Occasional Customers
+CUST0892,62.0,Male,38099.0,29,10679.83,368.27,64,29,Tamil Nadu,Sports,0,Occasional Customers
+CUST0893,35.0,Male,129089.0,8,21866.8,2733.35,87,8,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0894,55.0,Female,65096.0,44,88574.2,2013.05,171,44,Karnataka,Fashion,1,High-Value Customers
+CUST0895,52.0,Male,91986.0,45,43402.95,964.51,107,45,Gujarat,Fashion,1,High-Value Customers
+CUST0896,32.0,Male,33230.0,43,29934.02,696.14,151,43,Delhi,Sports,1,High-Value Customers
+CUST0897,42.0,Male,49009.0,44,45053.8,1023.95,96,44,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0898,54.0,Male,90969.0,33,17207.19,521.43,158,33,Maharashtra,Sports,0,Occasional Customers
+CUST0899,45.0,Male,53866.0,17,48216.93,2836.29,77,17,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0900,27.0,Male,125400.0,48,114997.44,2395.78,146,48,Rajasthan,Electronics,1,High-Value Customers
+CUST0901,56.0,Male,104246.0,11,16441.7,1494.7,87,11,Gujarat,Groceries,0,Occasional Customers
+CUST0902,34.0,Female,96975.0,13,34084.7,2621.9,149,13,Gujarat,Home,0,Occasional Customers
+CUST0903,56.0,Male,61855.0,50,44924.0,898.48,57,50,Delhi,Beauty,1,High-Value Customers
+CUST0904,39.0,Female,101557.0,11,24287.34,2207.94,103,11,Karnataka,Groceries,0,Occasional Customers
+CUST0905,43.0,Female,26416.0,31,80512.27,2597.17,151,31,Delhi,Electronics,1,High-Value Customers
+CUST0906,61.0,Female,80574.0,28,33570.6,1198.95,91,28,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0907,42.0,Female,75915.0,44,102119.6,2320.9,45,44,Rajasthan,Home,1,High-Value Customers
+CUST0908,34.0,Male,38058.0,6,6157.2,1026.2,172,6,Maharashtra,Sports,0,Occasional Customers
+CUST0909,30.0,Male,96637.0,41,42508.8,1036.8,88,41,Delhi,Electronics,1,High-Value Customers
+CUST0910,37.0,Female,60718.0,16,7996.16,499.76,115,16,Karnataka,Beauty,0,Occasional Customers
+CUST0911,42.0,Female,52602.0,4,5728.64,1432.16,47,4,Delhi,Beauty,0,Occasional Customers
+CUST0912,21.0,Female,94658.0,35,78511.65,2243.19,168,35,Gujarat,Fashion,1,High-Value Customers
+CUST0913,27.0,Female,98112.0,48,135965.76,2832.62,179,48,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0914,20.0,Female,78067.0,26,49156.38,1890.63,170,26,Tamil Nadu,Home,1,High-Value Customers
+CUST0915,58.0,Male,47516.0,12,31401.36,2616.78,135,12,Tamil Nadu,Sports,0,Occasional Customers
+CUST0916,62.0,Male,149295.0,11,27532.89,2502.99,50,11,Tamil Nadu,Home,0,Occasional Customers
+CUST0917,35.0,Female,107969.0,37,25358.32,685.36,176,37,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0918,64.0,Female,21089.0,25,39007.25,1560.29,84,25,Tamil Nadu,Fashion,0,Occasional Customers
+CUST0919,53.0,Male,57346.0,18,9493.02,527.39,91,18,Maharashtra,Beauty,0,Occasional Customers
+CUST0920,64.0,Female,94663.0,19,40090.57,2110.03,134,19,Karnataka,Fashion,0,Occasional Customers
+CUST0921,39.0,Male,30487.0,23,65773.56,2859.72,91,23,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0922,51.0,Female,20155.0,38,22186.3,583.85,137,38,Karnataka,Electronics,1,High-Value Customers
+CUST0923,64.0,Male,143950.0,18,40587.66,2254.87,109,18,Rajasthan,Fashion,0,Occasional Customers
+CUST0924,25.0,Male,87494.0,26,51227.02,1970.27,57,26,Tamil Nadu,Home,1,High-Value Customers
+CUST0925,57.0,Female,96229.0,6,11004.54,1834.09,31,6,Delhi,Sports,0,Occasional Customers
+CUST0926,61.0,Male,124648.0,4,5169.36,1292.34,21,4,Tamil Nadu,Sports,0,Occasional Customers
+CUST0927,36.0,Female,58547.0,44,52552.28,1194.37,90,44,Gujarat,Sports,1,High-Value Customers
+CUST0928,59.0,Female,48795.0,29,9474.3,326.7,40,29,Maharashtra,Groceries,0,Occasional Customers
+CUST0929,58.0,Female,75296.0,34,27544.76,810.14,112,34,Delhi,Home,1,High-Value Customers
+CUST0930,54.0,Male,41447.0,17,4122.5,242.5,45,17,Delhi,Groceries,0,Occasional Customers
+CUST0931,23.0,Male,56598.0,43,78602.71,1827.97,77,43,Gujarat,Fashion,1,High-Value Customers
+CUST0932,43.0,Male,61814.0,43,21344.77,496.39,177,43,Tamil Nadu,Electronics,1,High-Value Customers
+CUST0933,51.0,Female,110751.0,16,42311.2,2644.45,87,16,Maharashtra,Sports,0,Occasional Customers
+CUST0934,62.0,Female,145118.0,2,3329.6,1664.8,148,2,Delhi,Home,0,Occasional Customers
+CUST0935,23.0,Female,95330.0,34,73410.42,2159.13,101,34,Maharashtra,Sports,1,High-Value Customers
+CUST0936,54.0,Female,141347.0,8,10803.2,1350.4,117,8,Delhi,Groceries,0,Occasional Customers
+CUST0937,50.0,Female,118745.0,13,23005.06,1769.62,92,13,Tamil Nadu,Beauty,0,Occasional Customers
+CUST0938,39.0,Female,107960.0,42,119256.9,2839.45,145,42,Rajasthan,Fashion,1,High-Value Customers
+CUST0939,38.0,Male,83278.0,8,3453.28,431.66,28,8,Delhi,Electronics,0,Occasional Customers
+CUST0940,23.0,Female,75077.0,30,27330.9,911.03,169,30,Rajasthan,Fashion,1,High-Value Customers
+CUST0941,23.0,Male,132782.0,32,76287.04,2383.97,25,32,Delhi,Beauty,1,High-Value Customers
+CUST0942,21.0,Female,142046.0,36,17152.56,476.46,58,36,Karnataka,Electronics,1,High-Value Customers
+CUST0943,47.0,Female,122932.0,47,19356.95,411.85,41,47,Tamil Nadu,Beauty,1,High-Value Customers
+CUST0944,28.0,Female,91906.0,30,36369.6,1212.32,134,30,Gujarat,Fashion,1,High-Value Customers
+CUST0945,47.0,Male,29528.0,1,458.07,458.07,75,1,Rajasthan,Groceries,0,Occasional Customers
+CUST0946,48.0,Male,113812.0,43,79043.46,1838.22,38,43,Gujarat,Fashion,1,High-Value Customers
+CUST0947,41.0,Male,70100.0,39,32509.23,833.57,134,39,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0948,26.0,Male,129869.0,17,46035.15,2707.95,173,17,Gujarat,Fashion,0,Occasional Customers
+CUST0949,20.0,Male,28179.0,20,47876.0,2393.8,75,20,Tamil Nadu,Home,0,Occasional Customers
+CUST0950,48.0,Female,68781.0,24,51820.08,2159.17,142,24,Gujarat,Beauty,0,Occasional Customers
+CUST0951,57.0,Female,75267.0,50,96372.0,1927.44,66,50,Rajasthan,Beauty,1,High-Value Customers
+CUST0952,54.0,Male,102379.0,22,57589.4,2617.7,168,22,Karnataka,Sports,0,Occasional Customers
+CUST0953,53.0,Male,43952.0,29,23912.53,824.57,3,29,Gujarat,Beauty,0,Occasional Customers
+CUST0954,41.0,Male,73798.0,22,58183.4,2644.7,117,22,Rajasthan,Sports,0,Occasional Customers
+CUST0955,48.0,Female,118696.0,44,106065.52,2410.58,99,44,Delhi,Home,1,High-Value Customers
+CUST0956,23.0,Male,130434.0,9,20653.65,2294.85,152,9,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0957,19.0,Female,70939.0,37,65546.24,1771.52,19,37,Maharashtra,Sports,1,High-Value Customers
+CUST0958,37.0,Male,49516.0,10,8894.8,889.48,146,10,Maharashtra,Fashion,0,Occasional Customers
+CUST0959,45.0,Female,76526.0,36,49893.48,1385.93,116,36,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0960,28.0,Female,30449.0,37,89614.0,2422.0,125,37,Karnataka,Home,1,High-Value Customers
+CUST0961,21.0,Male,70290.0,28,8091.44,288.98,88,28,Gujarat,Beauty,0,Occasional Customers
+CUST0962,32.0,Female,146688.0,28,66912.72,2389.74,35,28,Karnataka,Sports,1,High-Value Customers
+CUST0963,23.0,Male,106661.0,42,36632.4,872.2,1,42,Maharashtra,Fashion,1,High-Value Customers
+CUST0964,47.0,Female,92954.0,43,25975.01,604.07,153,43,Rajasthan,Electronics,1,High-Value Customers
+CUST0965,55.0,Male,42746.0,21,11003.16,523.96,173,21,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0966,19.0,Female,87990.0,24,6631.2,276.3,177,24,Tamil Nadu,Groceries,0,Occasional Customers
+CUST0967,32.0,Female,78810.0,42,69973.68,1666.04,126,42,Karnataka,Beauty,1,High-Value Customers
+CUST0968,28.0,Female,138362.0,40,32445.2,811.13,89,40,Rajasthan,Electronics,1,High-Value Customers
+CUST0969,25.0,Female,103297.0,2,5940.82,2970.41,144,2,Karnataka,Groceries,0,Occasional Customers
+CUST0970,43.0,Male,35223.0,8,14467.36,1808.42,147,8,Gujarat,Home,0,Occasional Customers
+CUST0971,62.0,Male,92237.0,48,28131.84,586.08,151,48,Delhi,Groceries,1,High-Value Customers
+CUST0972,61.0,Male,22597.0,27,57470.58,2128.54,25,27,Rajasthan,Groceries,0,Occasional Customers
+CUST0973,22.0,Male,85677.0,22,59700.96,2713.68,16,22,Delhi,Groceries,0,Occasional Customers
+CUST0974,23.0,Female,22659.0,37,84600.5,2286.5,73,37,Gujarat,Fashion,1,High-Value Customers
+CUST0975,43.0,Male,106516.0,27,11178.81,414.03,129,27,Delhi,Groceries,0,Occasional Customers
+CUST0976,21.0,Female,94567.0,29,78545.92,2708.48,42,29,Maharashtra,Sports,1,High-Value Customers
+CUST0977,36.0,Female,35037.0,3,7269.0,2423.0,147,3,Delhi,Groceries,0,Occasional Customers
+CUST0978,37.0,Female,146498.0,44,28303.0,643.25,162,44,Gujarat,Fashion,1,High-Value Customers
+CUST0979,50.0,Male,66738.0,13,4485.0,345.0,80,13,Delhi,Fashion,0,Occasional Customers
+CUST0980,37.0,Female,123965.0,45,79221.15,1760.47,104,45,Tamil Nadu,Home,1,High-Value Customers
+CUST0981,29.0,Female,91678.0,10,6369.0,636.9,146,10,Karnataka,Beauty,0,Occasional Customers
+CUST0982,64.0,Male,32109.0,36,91326.6,2536.85,34,36,Maharashtra,Electronics,1,High-Value Customers
+CUST0983,18.0,Female,42010.0,9,10830.06,1203.34,89,9,Tamil Nadu,Electronics,0,Occasional Customers
+CUST0984,43.0,Female,28787.0,27,74414.7,2756.1,125,27,Tamil Nadu,Groceries,1,High-Value Customers
+CUST0985,31.0,Male,128400.0,34,60653.62,1783.93,45,34,Gujarat,Home,1,High-Value Customers
+CUST0986,55.0,Male,28472.0,1,711.48,711.48,134,1,Karnataka,Groceries,0,Occasional Customers
+CUST0987,54.0,Male,135111.0,32,18908.16,590.88,21,32,Karnataka,Electronics,0,Occasional Customers
+CUST0988,28.0,Male,43383.0,25,45353.0,1814.12,122,25,Rajasthan,Fashion,0,Occasional Customers
+CUST0989,53.0,Male,81709.0,29,67664.83,2333.27,70,29,Maharashtra,Beauty,1,High-Value Customers
+CUST0990,30.0,Male,89785.0,7,16717.54,2388.22,96,7,Gujarat,Home,0,Occasional Customers
+CUST0991,60.0,Male,133253.0,49,47633.88,972.12,105,49,Maharashtra,Fashion,1,High-Value Customers
+CUST0992,20.0,Male,54518.0,3,2315.67,771.89,48,3,Rajasthan,Beauty,0,Occasional Customers
+CUST0993,50.0,Female,73909.0,20,4938.4,246.92,39,20,Delhi,Home,0,Occasional Customers
+CUST0994,23.0,Female,38351.0,20,42035.2,2101.76,31,20,Tamil Nadu,Home,0,Occasional Customers
+CUST0995,27.0,Female,89624.0,30,12431.7,414.39,10,30,Maharashtra,Electronics,0,Occasional Customers
+CUST0996,22.0,Male,73330.0,35,48234.55,1378.13,30,35,Tamil Nadu,Fashion,1,High-Value Customers
+CUST0997,40.0,Male,142477.0,35,65964.85,1884.71,18,35,Gujarat,Home,1,High-Value Customers
+CUST0998,27.0,Male,35282.0,49,138371.59,2823.91,88,49,Delhi,Sports,1,High-Value Customers
+CUST0999,61.0,Male,104866.0,39,41848.95,1073.05,125,39,Gujarat,Home,1,High-Value Customers
+CUST1000,19.0,Male,127945.0,27,24282.72,899.36,73,27,Delhi,Beauty,0,Occasional Customers

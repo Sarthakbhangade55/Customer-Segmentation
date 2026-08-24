@@ -1,0 +1,40 @@
+CUSTOMER SEGMENTATION - BUSINESS INSIGHTS
+==========================================
+
+Total Customers: 1000
+Number of Segments: 2
+
+
+SEGMENT: High-Value Customers
+-------------------------------------------------------
+Number of Customers: 465
+Average Age: 39.71
+Average Income: 85894.92
+Average Purchases: 39.06
+Average Spending: 68087.12
+Average Order Value: 1768.18
+Average Recency: 97.42 days
+Average Frequency: 39.06
+
+Recommended Business Strategy:
+- Introduce loyalty and VIP programs.
+- Offer premium products.
+- Provide personalized recommendations.
+- Give exclusive offers and early access.
+
+SEGMENT: Occasional Customers
+-------------------------------------------------------
+Number of Customers: 535
+Average Age: 42.11
+Average Income: 78765.86
+Average Purchases: 15.00
+Average Spending: 21068.91
+Average Order Value: 1512.10
+Average Recency: 89.03 days
+Average Frequency: 15.00
+
+Recommended Business Strategy:
+- Provide discount coupons.
+- Encourage repeat purchases.
+- Send personalized product recommendations.
+- Use promotional campaigns.

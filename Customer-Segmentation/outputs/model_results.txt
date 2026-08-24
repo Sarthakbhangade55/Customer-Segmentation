@@ -1,0 +1,23 @@
+CUSTOMER SEGMENTATION MODEL RESULTS
+====================================
+
+Number of Customers: 1000
+Number of Features: 7
+Best Number of Clusters: 2
+Best Silhouette Score: 0.2428
+
+Features Used:
+- Age
+- Income
+- Total_Purchases
+- Total_Spend
+- Avg_Order_Value
+- Recency
+- Frequency
+
+Cluster Summary:
+
+           Age    Income  Total_Purchases  Total_Spend  Avg_Order_Value  Recency  Frequency
+Cluster                                                                                    
+0        42.11  78765.86            15.00     21068.91          1512.10    89.03      15.00
+1        39.71  85894.92            39.06     68087.12          1768.18    97.42      39.06
